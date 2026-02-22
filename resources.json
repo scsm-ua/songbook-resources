@@ -214,6 +214,11 @@
         "title": "Bhakti Lalita Devi",
         "embed_url": "https://soundcloud.com/bhakti-lalita-devi/bhakti-lalita-mahamantra",
         "iframe_url": "https://w.soundcloud.com/player/?url=https%3A%2F%2Fsoundcloud.com%2Fbhakti-lalita-devi%2Fbhakti-lalita-mahamantra"
+      },
+      {
+        "title": "Srila B.N. Acharya Maharaj",
+        "embed_url": "https://soundcloud.com/temploscsmathsp/mahamantra-srila-acharya-maharaj",
+        "iframe_url": "https://w.soundcloud.com/player/?url=https%3A%2F%2Fsoundcloud.com%2Ftemploscsmathsp%2Fmahamantra-srila-acharya-maharaj"
       }
     ]
   },
@@ -317,6 +322,11 @@
         "iframe_url": "https://w.soundcloud.com/player/?url=https%3A%2F%2Fsoundcloud.com%2Fbharatimaharaj%2Fgovinda-maharaj-sri-guru-arati"
       },
       {
+        "title": "Srila B.K. Ashram Maharaj",
+        "embed_url": "https://soundcloud.com/scsmathcolombia/4-sri-guru-arati-stuti",
+        "iframe_url": "https://w.soundcloud.com/player/?url=https%3A%2F%2Fsoundcloud.com%2Fscsmathcolombia%2F4-sri-guru-arati-stuti"
+      },
+      {
         "title": "Nabadwip temple",
         "embed_url": "https://soundcloud.com/bharatimaharaj/navadwip-scsm-jaya-guru",
         "iframe_url": "https://w.soundcloud.com/player/?url=https%3A%2F%2Fsoundcloud.com%2Fbharatimaharaj%2Fnavadwip-scsm-jaya-guru"
@@ -354,6 +364,11 @@
   },
   "jaya-jaya-gurudever-arati-ujjvala": {
     "audio": [
+      {
+        "title": "Srila B.K. Ashram Maharaj",
+        "embed_url": "https://soundcloud.com/scsmathcolombia/3-sri-guru-arati",
+        "iframe_url": "https://w.soundcloud.com/player/?url=https%3A%2F%2Fsoundcloud.com%2Fscsmathcolombia%2F3-sri-guru-arati"
+      },
       {
         "title": "Nabadwip temple",
         "embed_url": "https://soundcloud.com/bharatimaharaj/navadwip-scsm-jaya-jaya",
@@ -407,13 +422,26 @@
   "kali-kukkura-kadana-jadi-chao-he": {
     "audio": [
       {
+        "title": "Srila B.K. Ashram Maharaj",
+        "embed_url": "https://soundcloud.com/scsmathcolombia/5-prabhati-giti",
+        "iframe_url": "https://w.soundcloud.com/player/?url=https%3A%2F%2Fsoundcloud.com%2Fscsmathcolombia%2F5-prabhati-giti"
+      },
+      {
         "title": "Srila B.B. Avadhut Maharaj",
         "embed_url": "https://soundcloud.com/bharatimaharaj/avadxut-maxaradzh-utrennee-6",
         "iframe_url": "https://w.soundcloud.com/player/?url=https%3A%2F%2Fsoundcloud.com%2Fbharatimaharaj%2Favadxut-maxaradzh-utrennee-6"
       }
     ]
   },
-  "ke-jabi-ke-jabi-bhai-bhava-sindhu-para": {},
+  "ke-jabi-ke-jabi-bhai-bhava-sindhu-para": {
+    "audio": [
+      {
+        "title": "Srila B.K. Ashram Maharaj",
+        "embed_url": "https://soundcloud.com/scsmathcolombia/12-ke-jabi-ke-jabi",
+        "iframe_url": "https://w.soundcloud.com/player/?url=https%3A%2F%2Fsoundcloud.com%2Fscsmathcolombia%2F12-ke-jabi-ke-jabi"
+      }
+    ]
+  },
   "mahaprasade-govinde-nama-brahmani": {},
   "namo-gaurakishoraya-bhaktavadhuta-murtaye": {},
   "namo-namah-tulasi-maharani": {
@@ -481,6 +509,11 @@
   "samsara-davanala-lidha-loka": {
     "audio": [
       {
+        "title": "Srila B.K. Ashram Maharaj",
+        "embed_url": "https://soundcloud.com/scsmathcolombia/8-sri-sri-gurvvastakam",
+        "iframe_url": "https://w.soundcloud.com/player/?url=https%3A%2F%2Fsoundcloud.com%2Fscsmathcolombia%2F8-sri-sri-gurvvastakam"
+      },
+      {
         "title": "Nabadwip temple",
         "embed_url": "https://soundcloud.com/bharatimaharaj/navadwip-scsm-samsara-davanala",
         "iframe_url": "https://w.soundcloud.com/player/?url=https%3A%2F%2Fsoundcloud.com%2Fbharatimaharaj%2Fnavadwip-scsm-samsara-davanala"
@@ -517,6 +550,11 @@
         "title": "Srila B.S. Goswami Maharaj",
         "embed_url": "https://soundcloud.com/bharatimaharaj/goswami-maharaj-sri-krsna",
         "iframe_url": "https://w.soundcloud.com/player/?url=https%3A%2F%2Fsoundcloud.com%2Fbharatimaharaj%2Fgoswami-maharaj-sri-krsna"
+      },
+      {
+        "title": "Srila B.N. Acharya Maharaj",
+        "embed_url": "https://soundcloud.com/acharyamaharaj/2-savarana-sri-gaura-pada",
+        "iframe_url": "https://w.soundcloud.com/player/?url=https%3A%2F%2Fsoundcloud.com%2Facharyamaharaj%2F2-savarana-sri-gaura-pada"
       },
       {
         "title": "Nabadwip temple",
@@ -579,6 +617,11 @@
   },
   "thakura-vaishnava-gana-kori-ei-nivedana": {
     "audio": [
+      {
+        "title": "Srila B.K. Ashram Maharaj",
+        "embed_url": "https://soundcloud.com/scsmathcolombia/10-thakura-vaisnava-gana",
+        "iframe_url": "https://w.soundcloud.com/player/?url=https%3A%2F%2Fsoundcloud.com%2Fscsmathcolombia%2F10-thakura-vaisnava-gana"
+      },
       {
         "title": "Nabadwip temple",
         "embed_url": "https://soundcloud.com/bharatimaharaj/navadwip-scsm-thakura-vaisnava",
@@ -698,6 +741,11 @@
         "title": "Srila B.R. Madhusudan Maharaj",
         "embed_url": "https://soundcloud.com/bharatimaharaj/madhusudan-maharaj-akrodha",
         "iframe_url": "https://w.soundcloud.com/player/?url=https%3A%2F%2Fsoundcloud.com%2Fbharatimaharaj%2Fmadhusudan-maharaj-akrodha"
+      },
+      {
+        "title": "Srila B.K. Ashram Maharaj",
+        "embed_url": "https://soundcloud.com/scsmathcolombia/11-akrodha-paramananda",
+        "iframe_url": "https://w.soundcloud.com/player/?url=https%3A%2F%2Fsoundcloud.com%2Fscsmathcolombia%2F11-akrodha-paramananda"
       }
     ]
   },
@@ -800,6 +848,11 @@
         "iframe_url": "https://w.soundcloud.com/player/?url=https%3A%2F%2Fsoundcloud.com%2Fbharatimaharaj%2Fgovinda-maharaj-bhajahu-re"
       },
       {
+        "title": "Srila B.K. Ashram Maharaj",
+        "embed_url": "https://soundcloud.com/scsmathcolombia/13-bhajahu-re-mana",
+        "iframe_url": "https://w.soundcloud.com/player/?url=https%3A%2F%2Fsoundcloud.com%2Fscsmathcolombia%2F13-bhajahu-re-mana"
+      },
+      {
         "title": "Caracas temple",
         "embed_url": "https://soundcloud.com/bharatimaharaj/shchsm-karakas-bxadzhaxu-re",
         "iframe_url": "https://w.soundcloud.com/player/?url=https%3A%2F%2Fsoundcloud.com%2Fbharatimaharaj%2Fshchsm-karakas-bxadzhaxu-re"
@@ -831,7 +884,15 @@
       }
     ]
   },
-  "chaudda-shiata-sata-shiake-masa-je-phalgun": {},
+  "chaudda-shiata-sata-shiake-masa-je-phalgun": {
+    "audio": [
+      {
+        "title": "Srila B.N. Acharya Maharaj",
+        "embed_url": "https://soundcloud.com/madhupuri/4-chauda-sata-sat-acharya",
+        "iframe_url": "https://w.soundcloud.com/player/?url=https%3A%2F%2Fsoundcloud.com%2Fmadhupuri%2F4-chauda-sata-sat-acharya"
+      }
+    ]
+  },
   "cheto-darpana-marjanam": {
     "audio": [
       {
@@ -970,6 +1031,11 @@
         "title": "Bhakti Lalita Devi",
         "embed_url": "https://soundcloud.com/bhakti-lalita-devi/bhakti-lalita-devi-savarana-sri-gaura-mahima-gaurangera-duti-pada",
         "iframe_url": "https://w.soundcloud.com/player/?url=https%3A%2F%2Fsoundcloud.com%2Fbhakti-lalita-devi%2Fbhakti-lalita-devi-savarana-sri-gaura-mahima-gaurangera-duti-pada"
+      },
+      {
+        "title": "Srila B.N. Acharya Maharaj",
+        "embed_url": "https://soundcloud.com/acharyamaharaj/5-savarana-sri-gaura-mahima",
+        "iframe_url": "https://w.soundcloud.com/player/?url=https%3A%2F%2Fsoundcloud.com%2Facharyamaharaj%2F5-savarana-sri-gaura-mahima"
       }
     ]
   },
@@ -1029,12 +1095,22 @@
         "title": "Bhakti Lalita Devi",
         "embed_url": "https://soundcloud.com/bhakti-lalita-devi/bhakti-lalita-devi-kabe-habe-bolo-acapella",
         "iframe_url": "https://w.soundcloud.com/player/?url=https%3A%2F%2Fsoundcloud.com%2Fbhakti-lalita-devi%2Fbhakti-lalita-devi-kabe-habe-bolo-acapella"
+      },
+      {
+        "title": "Srila B.P. Janardan Maharaj",
+        "embed_url": "https://soundcloud.com/bharatimaharaj/janardan-maharaj-he-deva",
+        "iframe_url": "https://w.soundcloud.com/player/?url=https%3A%2F%2Fsoundcloud.com%2Fbharatimaharaj%2Fjanardan-maharaj-he-deva"
       }
     ]
   },
   "intro": {},
   "jadi-gaura-na-hoto-tobe-ki-hoito": {
     "audio": [
+      {
+        "title": "Srila B.N. Acharya Maharaj",
+        "embed_url": "https://soundcloud.com/madhupuri/1-jadi-goura-na-hoito-acharya",
+        "iframe_url": "https://w.soundcloud.com/player/?url=https%3A%2F%2Fsoundcloud.com%2Fmadhupuri%2F1-jadi-goura-na-hoito-acharya"
+      },
       {
         "title": "Sudarshan Prabhu",
         "embed_url": "https://soundcloud.com/bharatimaharaj/sudarshan-prabhu-jadi-gaura-na",
@@ -1423,6 +1499,11 @@
         "iframe_url": "https://w.soundcloud.com/player/?url=https%3A%2F%2Fsoundcloud.com%2Fbharatimaharaj%2Fgoswami-maharaj-jaya-radha"
       },
       {
+        "title": "Srila B.N. Acharya Maharaj",
+        "embed_url": "https://soundcloud.com/acharyamaharaj/6-jaya-radha-madhava",
+        "iframe_url": "https://w.soundcloud.com/player/?url=https%3A%2F%2Fsoundcloud.com%2Facharyamaharaj%2F6-jaya-radha-madhava"
+      },
+      {
         "title": "Srila B.B. Avadhut Maharaj",
         "embed_url": "https://soundcloud.com/bharatimaharaj/avadxut-maxaradzh-dzhaya-1",
         "iframe_url": "https://w.soundcloud.com/player/?url=https%3A%2F%2Fsoundcloud.com%2Fbharatimaharaj%2Favadxut-maxaradzh-dzhaya-1"
@@ -1469,6 +1550,16 @@
         "title": "Bhakti Lalita Devi",
         "embed_url": "https://soundcloud.com/bhakti-lalita-devi/bhakti-lalita-devi-sri-radhika-stava",
         "iframe_url": "https://w.soundcloud.com/player/?url=https%3A%2F%2Fsoundcloud.com%2Fbhakti-lalita-devi%2Fbhakti-lalita-devi-sri-radhika-stava"
+      },
+      {
+        "title": "Srila B.N. Acharya Maharaj",
+        "embed_url": "https://soundcloud.com/acharyamaharaj/sri-radhika-stava",
+        "iframe_url": "https://w.soundcloud.com/player/?url=https%3A%2F%2Fsoundcloud.com%2Facharyamaharaj%2Fsri-radhika-stava"
+      },
+      {
+        "title": "Srila B.P. Janardan Maharaj",
+        "embed_url": "https://soundcloud.com/bharatimaharaj/janardan-maharaj-radhe-jaya",
+        "iframe_url": "https://w.soundcloud.com/player/?url=https%3A%2F%2Fsoundcloud.com%2Fbharatimaharaj%2Fjanardan-maharaj-radhe-jaya"
       }
     ]
   },
