@@ -110,5 +110,21 @@
       "ru": "Нитай Прабху",
       "ua": "Нітай Прабгу"
     }
+  },
+  {
+    "id": "Srila B.K. Ashram Maharaj",
+    "i18n": {
+      "en": "Srila B.K. Ashram Maharaj",
+      "ru": "Шрила Б.К. Ашрам Махарадж",
+      "ua": "Шріла Б.К. Ашрам Махарадж"
+    }
+  },
+  {
+    "id": "Srila B.P. Janardan Maharaj",
+    "i18n": {
+      "en": "Srila B.P. Janardan Maharaj",
+      "ru": "Шрила Б.П. Джанардан Махарадж",
+      "ua": "Шріла Б.П. Джанардан Махарадж"
+    }
   }
 ]
