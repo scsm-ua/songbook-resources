@@ -409,6 +409,11 @@
   "je-anilo-prema-dhana-karuna-prachura": {
     "audio": [
       {
+        "title": "Srila B.S. Govinda Dev-Goswami Maharaj",
+        "embed_url": "https://soundcloud.com/krsnachaitanya-das/49-ye-anilo-prema-dhana-1",
+        "iframe_url": "https://w.soundcloud.com/player/?url=https%3A%2F%2Fsoundcloud.com%2Fkrsnachaitanya-das%2F49-ye-anilo-prema-dhana-1"
+      },
+      {
         "title": "Srila B.S. Goswami Maharaj",
         "embed_url": "https://soundcloud.com/bharatimaharaj/goswami-maharaj-viraha-giti",
         "iframe_url": "https://w.soundcloud.com/player/?url=https%3A%2F%2Fsoundcloud.com%2Fbharatimaharaj%2Fgoswami-maharaj-viraha-giti"
@@ -1157,6 +1162,11 @@
   "gopinath-mama-nivedana-shiuno": {
     "audio": [
       {
+        "title": "Srila B.S. Govinda Dev-Goswami Maharaj",
+        "embed_url": "https://soundcloud.com/krsnachaitanya-das/37-gopinath-mama-nivedana-suna-4",
+        "iframe_url": "https://w.soundcloud.com/player/?url=https%3A%2F%2Fsoundcloud.com%2Fkrsnachaitanya-das%2F37-gopinath-mama-nivedana-suna-4"
+      },
+      {
         "title": "Srila B.R. Madhusudan Maharaj",
         "embed_url": "https://soundcloud.com/bharatimaharaj/madhusudan-maharaj-gopinath-1",
         "iframe_url": "https://w.soundcloud.com/player/?url=https%3A%2F%2Fsoundcloud.com%2Fbharatimaharaj%2Fmadhusudan-maharaj-gopinath-1"
@@ -1612,10 +1622,23 @@
       }
     ]
   },
-  "pralaya-payodhi-jale-dhritavan-asi-vedam": {},
+  "pralaya-payodhi-jale-dhritavan-asi-vedam": {
+    "audio": [
+      {
+        "title": "Srila B.S. Govinda Dev-Goswami Maharaj",
+        "embed_url": "https://soundcloud.com/krsnachaitanya-das/39-sri-dasavatar-stotram-2",
+        "iframe_url": "https://w.soundcloud.com/player/?url=https%3A%2F%2Fsoundcloud.com%2Fkrsnachaitanya-das%2F39-sri-dasavatar-stotram-2"
+      }
+    ]
+  },
   "prerakam-prachya-pashchatya-shishyanam": {},
   "radha-bhajane-jodi-moti-nahi-bhela": {
     "audio": [
+      {
+        "title": "Srila B.S. Govinda Dev-Goswami Maharaj",
+        "embed_url": "https://soundcloud.com/krsnachaitanya-das/31-radha-bhajane-yadi-8",
+        "iframe_url": "https://w.soundcloud.com/player/?url=https%3A%2F%2Fsoundcloud.com%2Fkrsnachaitanya-das%2F31-radha-bhajane-yadi-8"
+      },
       {
         "title": "Srila B.N. Acharya Maharaj",
         "embed_url": "https://soundcloud.com/kostya-netrebenko/076-radhabhajaneyadi-10",
@@ -1629,7 +1652,15 @@
     ]
   },
   "radha-krishna-bol-bol-bolo-re-sobai": {},
-  "radha-krishna-prana-mora-jugala-kishora": {},
+  "radha-krishna-prana-mora-jugala-kishora": {
+    "audio": [
+      {
+        "title": "Srila B.S. Govinda Dev-Goswami Maharaj",
+        "embed_url": "https://soundcloud.com/krsnachaitanya-das/34-radha-krsna-prana-mora-yugala-kisora-6",
+        "iframe_url": "https://w.soundcloud.com/player/?url=https%3A%2F%2Fsoundcloud.com%2Fkrsnachaitanya-das%2F34-radha-krsna-prana-mora-yugala-kisora-6"
+      }
+    ]
+  },
   "radha-madhava-kunja-bihari": {
     "audio": [
       {
@@ -1687,6 +1718,11 @@
         "iframe_url": "https://w.soundcloud.com/player/?url=https%3A%2F%2Fsoundcloud.com%2Fbharatimaharaj%2Fsridhar-maharaj-and-govinda-5"
       },
       {
+        "title": "Srila B.S. Govinda Dev-Goswami Maharaj",
+        "embed_url": "https://soundcloud.com/krsnachaitanya-das/36-radha-kunda-tata-5",
+        "iframe_url": "https://w.soundcloud.com/player/?url=https%3A%2F%2Fsoundcloud.com%2Fkrsnachaitanya-das%2F36-radha-kunda-tata-5"
+      },
+      {
         "title": "Srila B.R. Madhusudan Maharaj",
         "embed_url": "https://soundcloud.com/bharatimaharaj/madhusudan-maharaj-day-programm-kisel",
         "iframe_url": "https://w.soundcloud.com/player/?url=https%3A%2F%2Fsoundcloud.com%2Fbharatimaharaj%2Fmadhusudan-maharaj-day-programm-kisel"
@@ -1733,6 +1769,11 @@
         "title": "Srila B.R. Sridhar Dev-Goswami Maharaj",
         "embed_url": "https://soundcloud.com/bharatimaharaj/sridhar-maharaj-and-govinda-2",
         "iframe_url": "https://w.soundcloud.com/player/?url=https%3A%2F%2Fsoundcloud.com%2Fbharatimaharaj%2Fsridhar-maharaj-and-govinda-2"
+      },
+      {
+        "title": "Srila B.S. Govinda Dev-Goswami Maharaj",
+        "embed_url": "https://soundcloud.com/krsnachaitanya-das/33-radhika-charana-padma-7",
+        "iframe_url": "https://w.soundcloud.com/player/?url=https%3A%2F%2Fsoundcloud.com%2Fkrsnachaitanya-das%2F33-radhika-charana-padma-7"
       }
     ]
   },
@@ -1770,7 +1811,15 @@
       }
     ]
   },
-  "shiuno-he-rasika-jon-krishna-guna-aganon": {},
+  "shiuno-he-rasika-jon-krishna-guna-aganon": {
+    "audio": [
+      {
+        "title": "Srila B.S. Govinda Dev-Goswami Maharaj",
+        "embed_url": "https://soundcloud.com/krsnachaitanya-das/38-suno-he-rasika-jana-3",
+        "iframe_url": "https://w.soundcloud.com/player/?url=https%3A%2F%2Fsoundcloud.com%2Fkrsnachaitanya-das%2F38-suno-he-rasika-jana-3"
+      }
+    ]
+  },
   "shri-hari-vasare-hari-kirtana-vidhana": {
     "audio": [
       {
