@@ -1,5 +1,8 @@
 {
   "name": "songbook-resources",
   "version": "0.1.0",
-  "private": true
+  "private": true,
+  "scripts": {
+    "postinstall": "node scripts/parse-audio-md.js"
+  }
 }
