@@ -3,7 +3,7 @@
 - **Vandanā**
   - https://kirtan.site/en/vande-ham-shri-guroh-shri-yuta-pada-kamalam.html
   - vande ’haṁ śrī-guroḥ śrī-yuta-pada-kamalaṁ
-    - **Srila B.N. Acharya Maharajj**
+    - **Srila B.N. Acharya Maharaj**
       - https://soundcloud.com/bharatimaharaj/acharya-maharaj-vandana
     - **Srila B.S. Goswami Maharaj**
       - https://soundcloud.com/bharatimaharaj/goswami-maharaj-vandana
