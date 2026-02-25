@@ -18,10 +18,6 @@ Markdown format (per render-md-audio.js spec):
 const fs = require('node:fs/promises');
 const path = require('node:path');
 
-function buildIframeUrl(embedUrl) {
-    return `https://w.soundcloud.com/player/?url=${encodeURIComponent(embedUrl)}`;
-}
-
 function parseAudioMarkdown(markdownContent) {
     const lines = markdownContent.split(/\r?\n/);
     const output = {};
@@ -103,8 +99,7 @@ function parseAudioMarkdown(markdownContent) {
             }
             output[currentSongId].audio.push({
                 title: pendingAudioTitle,
-                embed_url: embedUrl,
-                iframe_url: buildIframeUrl(embedUrl)
+                embed_url: embedUrl
             });
             pendingAudioTitleHasUrl = true;
             // do NOT reset pendingAudioTitle — multiple URLs may follow same title
