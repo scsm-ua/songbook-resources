@@ -1,9 +1,9 @@
 /*
-Load file `md/audio.md`.
+Load file `./audio.md`.
 
-Use `json/resources-target.json` as output structure example/reference.
+Use `./resources.json` as output structure example/reference.
 
-Convert input md file to `json/resources-output.json`.
+Convert input md file to `./resources-parsed-from-md.json`.
 
 Sort output by each object parent key.
 
@@ -127,8 +127,8 @@ function parseAudioMarkdown(markdownContent) {
 
 async function main() {
 	const projectRoot = process.cwd();
-	const inputPath = path.join(projectRoot, 'md', 'audio.md');
-	const outputPath = path.join(projectRoot, 'json', 'resources-output.json');
+	const inputPath = path.join(projectRoot, 'audio.md');
+	const outputPath = path.join(projectRoot, 'resources-parsed-from-md.json');
 
 	const markdownContent = await fs.readFile(inputPath, 'utf8');
 	const { output: parsedOutput, errors } = parseAudioMarkdown(markdownContent);
