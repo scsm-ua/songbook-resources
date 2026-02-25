@@ -1,15 +1,17 @@
 # Songbook Resources
 
-Репозиторий для хранения общих данных, неизменных для всех песенников. В настоящее время это ссылки на аудио-файлы. В будущем также возможно будут:
- - ссылки на видео
- - фото святых мест и вайшнавов
- - статьи по тематике песен
+- [Audio tracks list](audio.md)
 
-## Аудио
+A repository for storing shared data common to all songbooks. Currently contains links to audio recordings. Future additions may include:
+- video links
+- photos of holy places and Vaishnavas
+- articles on song topics
+
+## Audio
 
 ### `audio.md`
 
-Исходный файл со ссылками на аудио-записи. Структура:
+Source file with links to audio recordings. Format:
 
 ```
 ### Section Name
@@ -21,20 +23,21 @@
       - {embed_url}
 ```
 
-Идентификатор песни (id) извлекается из URL `.html`-страницы. У одного исполнителя может быть несколько ссылок.
+The song id is extracted from the `.html` page URL. A single performer may have multiple links.
 
 ### `scripts/parse-audio-md.js`
 
-Парсит `audio.md` и генерирует `resources-parsed-from-md.json` — JSON-объект, где ключ — id песни, значение — объект с массивом `audio`. Каждый элемент массива содержит:
+Parses `audio.md` and generates `resources-parsed-from-md.json` — a JSON object where the key is the song id and the value is an object with an `audio` array. Each array item contains:
 
-- `title` — имя исполнителя
-- `embed_url` — оригинальная ссылка на SoundCloud
-- `iframe_url` — URL для встраивания через SoundCloud Widget API
+- `title` — performer name
+- `embed_url` — original SoundCloud link
+- `iframe_url` — URL for embedding via the SoundCloud Widget API
 
-Запуск:
+Run:
 
 ```
 npm run build
 ```
 
-Также запускается автоматически при `npm install` (скрипт `postinstall`).
+Also runs automatically on `npm install` (via the `postinstall` script).
+
