@@ -9,9 +9,15 @@ A repository for storing shared data common to all songbooks. Currently contains
 
 ## Audio
 
-### `audio.md`
+### Data files
 
-Source file with links to audio recordings. Format:
+| File | Description |
+|------|-------------|
+| `audio.md` | Source file — manually edited, contains audio links |
+| `resources.json` | Generated output — consumed by songbook apps |
+| `persons.json` | List of known performers referenced in `audio.md` |
+
+#### `audio.md` format
 
 ```
 ### Section Name
@@ -25,19 +31,31 @@ Source file with links to audio recordings. Format:
 
 The song id is extracted from the `.html` page URL. A single performer may have multiple links.
 
-### `scripts/parse-audio-md.js`
+#### `resources.json` structure
 
-Parses `audio.md` and generates `resources.json` — a JSON object where the key is the song id and the value is an object with an `audio` array. Each array item contains:
+Each key is a song id. The value is an object with an `audio` array where each item contains:
 
-- `title` — performer name
+- `title` — performer name (must match an `id` in `persons.json`)
 - `embed_url` — original SoundCloud link
 - `iframe_url` — URL for embedding via the SoundCloud Widget API
 
-Run:
+### Scripts
+
+| Script | Description |
+|--------|-------------|
+| `scripts/parse-audio-md.js` | Parses `audio.md` → writes `resources.json`. Exits with `1` on format errors |
+| `scripts/test-resource-performers.js` | Validates all `audio[].title` values exist in `persons.json`. Exits with `1` on unknown performers |
+| `scripts/build.js` | Runs both scripts above in sequence |
+
+### Usage
 
 ```
 npm run build
 ```
 
 Also runs automatically on `npm install` (via the `postinstall` script).
+
+## CI
+
+The `.github/workflows/build.yml` workflow runs `npm run build` on every push, failing the check if `audio.md` has format errors or if any performer is missing from `persons.json`.
 
