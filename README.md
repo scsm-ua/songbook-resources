@@ -27,7 +27,7 @@ The song id is extracted from the `.html` page URL. A single performer may have 
 
 ### `scripts/parse-audio-md.js`
 
-Parses `audio.md` and generates `resources-parsed-from-md.json` — a JSON object where the key is the song id and the value is an object with an `audio` array. Each array item contains:
+Parses `audio.md` and generates `resources.json` — a JSON object where the key is the song id and the value is an object with an `audio` array. Each array item contains:
 
 - `title` — performer name
 - `embed_url` — original SoundCloud link
