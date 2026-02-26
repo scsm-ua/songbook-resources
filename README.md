@@ -37,7 +37,6 @@ Each key is a song id. The value is an object with an `audio` array where each i
 
 - `title` — performer name (must match an `id` in `persons.json`)
 - `embed_url` — original SoundCloud link
-- `iframe_url` — URL for embedding via the SoundCloud Widget API
 
 ### Scripts
 
