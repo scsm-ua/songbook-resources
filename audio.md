@@ -1,0 +1,1177 @@
+### Intro
+
+- **Vandanā**
+  - https://kirtan.site/en/vande-ham-shri-guroh-shri-yuta-pada-kamalam.html
+  - vande ’haṁ śrī-guroḥ śrī-yuta-pada-kamalaṁ
+    - **Srila B.N. Acharya Maharaj**
+      - https://soundcloud.com/bharatimaharaj/acharya-maharaj-vandana
+    - **Srila B.S. Goswami Maharaj**
+      - https://soundcloud.com/bharatimaharaj/goswami-maharaj-vandana
+    - **Srila B.R. Madhusudan Maharaj**
+      - https://soundcloud.com/bharatimaharaj/madhusudan-maharaj-vandana
+    - **Srila B.S. Govinda Dev-Goswami Maharaj**
+      - https://soundcloud.com/jayasri-sound/vandana-srila-govinda-maharaj
+    - **Bhudev Prabhu**
+      - https://soundcloud.com/huron/07-am031-vande-ham
+- **Praṇām Mantra to Śrīla Bhakti Rañjan Madhusūdana Mahārāj**
+  - https://kirtan.site/en/acharya-varyam-gaura-dhama-nishtham.html
+  - āchārya-varyaṁ gaura-dhāma-niṣṭhaṁ
+- **Praṇām Mantra to Śrīla Bhakti Bimal Avadhūt Mahārāj**
+  - https://kirtan.site/en/vande-vaikuntha-vritti-stham.html
+  - vande vaikuṇṭha-vṛtti-stham
+- **Praṇām Mantra to Śrīla Bhakti Sudhīr Goswāmī Mahārāj**
+  - https://kirtan.site/en/goswaminam-sudhirakhyam.html
+  - goswāminaṁ sudhīrākhyam
+- **Praṇām Mantra to Śrila Bhakti Nirmal Āchārya Mahārāj**
+  - https://kirtan.site/en/pujya-sri-guru-varga-vandita.html
+  - pūjya śrī-guru-varga-vandita
+- **Praṇām Mantra to Śrīla Bhakti Sundar Govinda Dev-Goswāmī Mahārāj**
+  - https://kirtan.site/en/gurvabhishta-supurakam-guru-ganair.html
+  - gurvābhīṣṭa-supūrakaṁ guru-gaṇair
+- **Praṇām Mantra to Śrīla Bhakti Rakṣak Śrīdhar Dev-Goswāmī Mahārāj**
+  - https://kirtan.site/en/devam-divya-tanum-suchanda-vadanam-balarka-chelanchitam.html
+  - devaṁ divya-tanuṁ suchanda-vadanaṁ-bālārka-chelāñchitaṁ
+- **Praṇām Mantra to Bhagavān Śrīla Bhakti Siddhānta Saraswatī Ṭhākur**
+  - https://kirtan.site/en/shri-siddhanta-sarasvatiti-vidito.html
+  - śrī-siddhānta-sarasvatīti vidito
+- **Praṇām Mantra to Śrīla Gaura Kiśora Dās Bābājī Mahārāj**
+  - https://kirtan.site/en/namo-gaurakishoraya-bhaktavadhuta-murtaye.html
+  - namo gaurakiśorāya bhaktāvadhūta mūrtaye
+- **Praṇām Mantra to Śrīla Bhakti Vinod Ṭhākur**
+  - https://kirtan.site/en/vande-bhaktivinodam-shri-gaura-shiakti-svarupakam.html
+  - vande bhaktivinodaṁ śrī-gaura-śakti-svarūpakam
+- **Praṇām Mantra to Śrīla Jagannāth Dās Bābājī Mahārāj**
+  - https://kirtan.site/en/gaura-vrajashritashieshair-vaishnavair-vandya-vigraham.html
+  - gaura-vrajāśritāśeṣair vaiṣṇavair vandya-vigraham
+- **vāñchā-kalpatarubhyas’ cha**
+  - https://kirtan.site/en/vancha-kalpatarubhyas-cha.html
+  - vāñchā-kalpatarubhyas’ cha
+- **Śrī-Śrī-Guru-Gaurāṅga-Rādhā-Madana-Mohanjīu Kolkata**
+  - https://kirtan.site/en/jayatam-suratau-pangor.html
+  - jayatāṁ suratau paṅgor
+- **Śrī-Śrī-Guru-Gaurāṅga-Gāndharvā-Govindasundarjīu Nabadwīp**
+  - https://kirtan.site/en/divyad-vrindaranya-kalpa-drumadhah.html
+  - dīvyad-vṛndāraṇya-kalpa-drumādhaḥ
+- **Śrī-Śrī-Guru-Gaurāṅga-Rādhā-Gopīnāthjīu Hāpāniyā**
+  - https://kirtan.site/en/shriman-rasa-rasarambhi.html
+  - śrīmān rāsa-rasārambhī
+- **vṛndāyai tulasī-devyai**
+  - https://kirtan.site/en/vrindayai-tulasi-devyai.html
+  - vṛndāyai tulasī-devyai
+- **Prayers to the Vaiṣṇavas**
+  - https://kirtan.site/en/sakala-vaishnava-pade-mora-namaskara.html
+  - sakala vaiṣṇava-pade mora namaskāra
+- **Praṇām Mantra to Śrīla Swāmī Mahārāj**
+  - https://kirtan.site/en/namah-om-vishnupadaya-krishna.html
+  - namaḥ om viṣṇupādaya kṛṣṇa
+- **The Glory of the Śrī Chaitanya Sāraswat Maṭh**
+  - https://kirtan.site/en/shrimach-chaitanya-sarasvata-mathavara-udgita-kirtir.html
+  - śrīmach-chaitanya-sārasvata-maṭhavara-udgīta-kīrtir
+- **Jaya Dhvani**
+  - https://kirtan.site/en/jaya-sa-parikara.html
+  - jaya sa-parikara
+    - **Srila B.S. Govinda Dev-Goswami Maharaj**
+      - https://soundcloud.com/kostya-netrebenko/00-jaya-dhvani-14
+- **Pañcha-tattva mantra**
+  - https://kirtan.site/en/shri-krishna-chaitanya-prabhu-nityananda.html
+  - śrī-kṛṣṇa-chaitanya prabhu nityānanda
+- **Hare Krishna mahāmantra**
+  - https://kirtan.site/en/hare-krishna-hare-krishna-krishna-krishna-hare-hare.html
+  - hare kṛṣṇa hare kṛṣṇa kṛṣṇa kṛṣṇa hare hare
+    - **Srila B.S. Goswami Maharaj**
+      - https://soundcloud.com/bharatimaharaj/goswami-maharaj-mahamantra
+    - **Caracas temple**
+      - https://soundcloud.com/bharatimaharaj/shchsm-karakas-kirtan
+    - **Srila B.B. Avadhut Maharaj**
+      - https://soundcloud.com/bharatimaharaj/avadxut-maxaradzh-utrennee-3
+      - https://soundcloud.com/bharatimaharaj/avadxut-maxaradzh-kirtan-8
+      - https://soundcloud.com/bharatimaharaj/avadxut-maxaradzh-kirtan-7
+      - https://soundcloud.com/bharatimaharaj/avadxut-maxaradzh-kirtan-2016
+      - https://soundcloud.com/bharatimaharaj/avadxut-maxaradzh-kirtan-shri
+      - https://soundcloud.com/bharatimaharaj/avadxut-maxaradzh-kirtan-6
+      - https://soundcloud.com/bharatimaharaj/avadxut-maxaradzh-kirtan-5
+      - https://soundcloud.com/bharatimaharaj/avadxut-maxaradzh-kirtan-4
+      - https://soundcloud.com/bharatimaharaj/avadxut-maxaradzh-kirtan-3
+      - https://soundcloud.com/bharatimaharaj/avadxut-maxaradzh-kirtan-v
+      - https://soundcloud.com/bharatimaharaj/avadxut-maxaradzh-kirtan-2
+      - https://soundcloud.com/bharatimaharaj/avadxut-maxaradzh-kirtan-1
+      - https://soundcloud.com/bharatimaharaj/avadxut-maxaradzh-kirtan
+    - **Srila B.R. Sridhar Dev-Goswami Maharaj**
+      - https://soundcloud.com/scs-math-mexico-cpi/mahamantra-hare-krishna-srila-bhakti-rakshak-sridhar-deva-goswami-maharaj
+    - **Srila B.S. Govinda Dev-Goswami Maharaj**
+      - https://soundcloud.com/jayasri-sound/maha-mantra
+    - **Bhakti Lalita Devi**
+      - https://soundcloud.com/bhakti-lalita-devi/maha-mantra
+      - https://soundcloud.com/bhakti-lalita-devi/mahamantra
+      - https://soundcloud.com/bhakti-lalita-devi/bhakti-lalita-mahamantra
+    - **Srila B.N. Acharya Maharaj**
+      - https://soundcloud.com/temploscsmathsp/mahamantra-srila-acharya-maharaj
+- **Daśa-vidha Nāmāparādha**
+  - https://kirtan.site/en/hari-nama-mahamantra-sarva-mantra-sara.html
+  - hari-nāma mahāmantra sarva-mantra-sāra
+    - **Srila B.R. Madhusudan Maharaj**
+      - https://soundcloud.com/bharatimaharaj/madhusudan-maharaj-dasa-vidha-namaparadha
+- **Śrī Śrī Govardhana-vāsa-prārthanā-daśakam**
+  - https://kirtan.site/en/nija-pati-bhuja-danda-chchhatra-bhavam.html
+  - nija-pati-bhuja-daṇḍa-chchhatra-bhāvaṁ
+    - **Kesavananda Prabhu**
+      - https://soundcloud.com/kesavananda-dasa/a-dwelling-near-sri-govardhan
+
+### Morning Songs
+
+- **Śrī Govinda Kuṇḍa Gupta-Govardhan Ārati**
+  - https://kirtan.site/en/jaya-jaya-girirajer-arati-vishiala.html
+  - jaya jaya girirājer ārati viśāla
+- **Śrī Śrī Girirāj-Govardhan Ārati**
+  - https://kirtan.site/en/jaya-jaya-girirajer-arotiko-shobha.html
+  - jaya jaya girirājer ārotiko śobhā
+    - **Srila B.R. Madhusudan Maharaj**
+      - https://soundcloud.com/bharatimaharaj/madhusudan-maharaj-day-programm-kisel
+- **Śrī Śrī Nitāi-Chaitanya-Ārati**
+  - https://kirtan.site/en/jaya-guru-maharaja-karuna-sagara.html
+  - jaya guru mahārāja karuṇā-sāgara
+    - **Caracas temple**
+      - https://soundcloud.com/bharatimaharaj/shchsm-karakas-dzhaya-guru
+      - https://soundcloud.com/bharatimaharaj/shchsm-karakas-gaura-arati-i
+- **Śrī Guru Ārati**
+  - https://kirtan.site/en/jaya-jaya-gurudever-arati-ujjvala.html
+  - jaya jaya gurudever ārati ujjvala
+    - **Srila B.K. Ashram Maharaj**
+      - https://soundcloud.com/scsmathcolombia/3-sri-guru-arati
+    - **Srila B.N. Acharya Maharaj**
+      - https://soundcloud.com/kostya-netrebenko/003-jayajayagurudeveraratiujjvala-5
+    - **Nabadwip temple**
+      - https://soundcloud.com/bharatimaharaj/navadwip-scsm-jaya-jaya
+    - **Caracas temple**
+      - https://soundcloud.com/bharatimaharaj/shchsm-karakas-dzhaya-dzhaya
+- **Śrī Guru Ārati-stuti**
+  - https://kirtan.site/en/jaya-guru-maharaja-jati-rajeshvara.html
+  - jaya ‘guru-mahārāja’ jati-rājeśvara
+    - **Srila B.S. Govinda Dev-Goswami Maharaj**
+      - https://soundcloud.com/bharatimaharaj/govinda-maharaj-jaya-guru
+      - https://soundcloud.com/bharatimaharaj/govinda-maharaj-sri-guru-arati
+    - **Srila B.K. Ashram Maharaj**
+      - https://soundcloud.com/scsmathcolombia/4-sri-guru-arati-stuti
+    - **Nabadwip temple**
+      - https://soundcloud.com/bharatimaharaj/navadwip-scsm-jaya-guru
+    - **Caracas temple**
+      - https://soundcloud.com/bharatimaharaj/shchsm-karakas-dzhaya-guru-1
+- **Prabhāti Gīti**
+  - https://kirtan.site/en/kali-kukkura-kadana-jadi-chao-he.html
+  - kali-kukkura-kadana jadi chāo he
+    - **Srila B.K. Ashram Maharaj**
+      - https://soundcloud.com/scsmathcolombia/5-prabhati-giti
+    - **Srila B.B. Avadhut Maharaj**
+      - https://soundcloud.com/bharatimaharaj/avadxut-maxaradzh-utrennee-6
+- **Śrī Nām-kīrtan**
+  - https://kirtan.site/en/jashomati-nandana-vraja-vara-nagara.html
+  - jaśomatī-nandana vraja-vara nāgara
+    - **Srila B.S. Govinda Dev-Goswami Maharaj**
+      - https://soundcloud.com/bharatimaharaj/govinda-maharaj-jasomati
+      - https://soundcloud.com/bharatimaharaj/govinda-maharaj-yasomati-2
+      - https://soundcloud.com/bharatimaharaj/govinda-maharaj-yasomati-1
+      - https://soundcloud.com/bharatimaharaj/govinda-maharaj-yasomati
+    - **Srila B.S. Goswami Maharaj**
+      - https://soundcloud.com/bharatimaharaj/goswami-maharaj-yasomati
+    - **Nabadwip temple**
+      - https://soundcloud.com/bharatimaharaj/navadwip-scsm-jasomati-nandana
+    - **Caracas temple**
+      - https://soundcloud.com/bharatimaharaj/shchsm-karakas-dzhashomati
+    - **Srila B.R. Madhusudan Maharaj**
+      - https://soundcloud.com/bharatimaharaj/madhusudan-maharaj-day-programm-kisel
+    - **Srila B.B. Avadhut Maharaj**
+      - https://soundcloud.com/bharatimaharaj/avadxut-maxaradzh-utrennee-5
+      - https://soundcloud.com/bharatimaharaj/avadxut-maxaradzh-shri-nama
+- **Śrī Śachīnandana-vandanā**
+  - https://kirtan.site/en/jaya-shiachinandana-sura-muni-vandana.html
+  - jaya śachīnandana sura-muni-vandana
+    - **Caracas temple**
+      - https://soundcloud.com/bharatimaharaj/shchsm-karakas-dzhaya
+    - **Srila B.R. Madhusudan Maharaj**
+      - https://soundcloud.com/bharatimaharaj/madhusudan-maharaj-day-programm-kisel
+    - **Srila B.B. Avadhut Maharaj**
+      - https://soundcloud.com/bharatimaharaj/avadxut-maxaradzh-utrennee-4
+- **Gurudeva**
+  - https://kirtan.site/en/gurudeva-kripa-bindu-diya-kara-ei-dase.html
+  - gurudeva! kṛpā-bindu diyā, kara’ ei dāse
+    - **Srila B.S. Govinda Dev-Goswami Maharaj**
+      - https://soundcloud.com/bharatimaharaj/govinda-maharaj-gurudev-kripa
+    - **Srila B.R. Sridhar Dev-Goswami Maharaj**
+      - https://soundcloud.com/bharatimaharaj/sridhar-maharaj-and-govinda-6
+    - **Nabadwip temple**
+      - https://soundcloud.com/bharatimaharaj/navadwip-scsm-gurudev-morning
+      - https://soundcloud.com/bharatimaharaj/navadwip-scsm-gurudev
+    - **Caracas temple**
+      - https://soundcloud.com/bharatimaharaj/shchsm-karakas-gurudev
+    - **Srila B.B. Avadhut Maharaj**
+      - https://soundcloud.com/bharatimaharaj/avadxut-maxaradzh-utrennee-2
+- **Aruṇodoya-kīrtan 1**
+  - https://kirtan.site/en/udilo-aruna-puraba-bhage.html
+  - udilo aruṇa pūraba-bhāge
+    - **Nabadwip temple**
+      - https://soundcloud.com/bharatimaharaj/navadwip-scsm-udilo-aruna-jiv
+    - **Srila B.B. Avadhut Maharaj**
+      - https://soundcloud.com/bharatimaharaj/avadxut-maxaradzh-utrennee-1
+- **Aruṇodoya-kīrtan 2**
+  - https://kirtan.site/en/jiv-jago-jiv-jago-gaurachanda-bole.html
+  - jīv jāgo, jīv jāgo, gaurāchā̐da bole
+    - **Srila B.B. Avadhut Maharaj**
+      - https://soundcloud.com/bharatimaharaj/avadxut-maxaradzh-utrennee
+- **Śrī Śrī Gurvāṣṭaka**
+  - https://kirtan.site/en/samsara-davanala-lidha-loka.html
+  - saṁsāra-dāvānala-līḍha-loka
+    - **Srila B.K. Ashram Maharaj**
+      - https://soundcloud.com/scsmathcolombia/8-sri-sri-gurvvastakam
+    - **Nabadwip temple**
+      - https://soundcloud.com/bharatimaharaj/navadwip-scsm-samsara-davanala
+    - **Bhakti Lalita Devi**
+      - https://soundcloud.com/bhakti-lalita-devi/bhakti-lalita-devi-sri-sri-gurvvashtakam-samsara-davanala-lidha-loka
+- **Auspicious Invocation to Śaraṇāgati**
+  - https://kirtan.site/en/shri-krishna-chaitanya-prabhu-jive-daya-kori.html
+  - śrī-kṛṣṇa-chaitanya prabhu jīve dayā kori’
+- **Bhajan-gīti**
+  - https://kirtan.site/en/bhaja-re-bhaja-re-amar-mana-ati-manda.html
+  - bhaja re bhaja re āmār mana ati manda
+    - **Nabadwip temple**
+      - https://soundcloud.com/bharatimaharaj/navadwip-scsm-bhajare
+    - **Caracas temple**
+      - https://soundcloud.com/bharatimaharaj/shchsm-karakas-bxadzha-re-amar
+    - **Srila B.B. Avadhut Maharaj**
+      - https://soundcloud.com/bharatimaharaj/avadxut-maxaradzh-bxadzha-re
+    - **Bhakti Lalita Devi**
+      - https://soundcloud.com/bhakti-lalita-devi/bhakti-lalita-devi-bhajan-giti-bhaja-re-bhaja-re-amar
+- **Vibhāvarī Śeṣa**
+  - https://kirtan.site/en/vibhavari-shiesha-aloka-praveshia.html
+  - vibhāvarī śeṣa, āloka-praveśa
+    - **Srila B.S. Goswami Maharaj**
+      - https://soundcloud.com/bharatimaharaj/goswami-maharaj-vibhavari
+    - **Nabadwip temple**
+      - https://soundcloud.com/bharatimaharaj/navadwip-scsm-vibhavari-sesa
+    - **Srila B.B. Avadhut Maharaj**
+      - https://soundcloud.com/bharatimaharaj/avadxut-maxaradzh-vibxavari
+- **Ṭhākura-vaiṣṇava-gaṇa**
+  - https://kirtan.site/en/thakura-vaishnava-gana-kori-ei-nivedana.html
+  - ṭhākura vaiṣṇava-gaṇa kori ei nivedana
+    - **Srila B.K. Ashram Maharaj**
+      - https://soundcloud.com/scsmathcolombia/10-thakura-vaisnava-gana
+    - **Nabadwip temple**
+      - https://soundcloud.com/bharatimaharaj/navadwip-scsm-thakura-vaisnava
+    - **Bhakti Lalita Devi**
+      - https://soundcloud.com/bhakti-lalita-devi/bhakti-lalita-devi-thakura-vaishnava-gana
+- **Nām-saṅkīrtan**
+  - https://kirtan.site/en/hari-haraye-namah-krishna-yadavaya-namah.html
+  - hari haraye namaḥ kṛṣṇa yādavāya namaḥ
+    - **Srila B.S. Govinda Dev-Goswami Maharaj**
+      - https://soundcloud.com/bharatimaharaj/govinda-maharaj-hari-haraye
+    - **Nabadwip temple**
+      - https://soundcloud.com/bharatimaharaj/navadwip-scsm-hari-haraye
+    - **Srila B.B. Avadhut Maharaj**
+      - https://soundcloud.com/bharatimaharaj/avadxut-maxaradzh-xari-xaraje
+    - **Bhakti Lalita Devi**
+      - https://soundcloud.com/bhakti-lalita-devi/bhakti-lalita-devi-nama-sankirttan-hari-haraye-namah-krishna
+
+### Midday Songs
+
+- **Śrī Bhog Ārati Gīti**
+  - https://kirtan.site/en/bhaja-bhakata-vatsala-shri-gaurahari.html
+  - bhaja bhakata-vatsala śrī-gaurahari
+    - **Srila B.S. Govinda Dev-Goswami Maharaj**
+      - https://soundcloud.com/bharatimaharaj/govinda-maharaj-sri-bhoga
+    - **Nabadwip temple**
+      - https://soundcloud.com/bharatimaharaj/navadwip-scsm-bhaja-bhakata
+    - **Caracas temple**
+      - https://soundcloud.com/bharatimaharaj/shchsm-karakas-bxadzha-bxakata
+- **Mahāprasāda**
+  - https://kirtan.site/en/mahaprasade-govinde-nama-brahmani.html
+  - mahāprasāde govinde nāma brahmaṇi
+- **Śrī Prasāda-sevāya Gīti**
+  - https://kirtan.site/en/bhai-re-shorira-avidya-jal-jodendriya-tahe-kal.html
+  - bhāi-re! śorīra avidyā-jāl, joḍendriya tāhe kāl
+
+### Evening Songs
+
+- **Śrī Gaura-ārati**
+  - https://kirtan.site/en/jaya-jaya-gaurachander-arotiko-shobha.html
+  - (kiba) jaya jaya gaurāchā̐der ārotiko śobhā
+    - **Srila B.S. Govinda Dev-Goswami Maharaj**
+      - https://soundcloud.com/bharatimaharaj/govinda-maharaj-kiba-jaya-jaya
+    - **Nabadwip temple**
+      - https://soundcloud.com/bharatimaharaj/navadwip-scsm-kiba-jaya-jaya
+    - **Sudarshan Prabhu**
+      - https://soundcloud.com/bharatimaharaj/sudarshan-prabhu-sri-gaura
+- **Śrī Sāraswat-ārati**
+  - https://kirtan.site/en/jayare-jayare-jaya-gaura-sarasvati.html
+  - jayare jayare jaya gaura-sarasvatī
+    - **Nabadwip temple**
+      - https://soundcloud.com/bharatimaharaj/navadwip-scsm-kiba-jaya-jaya
+    - **Caracas temple**
+      - https://soundcloud.com/bharatimaharaj/shchsm-karakas-gaura-arati-i
+- **Dainya Prārthanā Gīti**
+  - https://kirtan.site/en/kobe-shri-chaitanya-more-koribena-daya.html
+  - kobe śrī chaitanya more-koribena dayā
+    - **Srila B.S. Govinda Dev-Goswami Maharaj**
+      - https://soundcloud.com/bharatimaharaj/govinda-maharaj-kobe-sri
+    - **Nabadwip temple**
+      - https://soundcloud.com/bharatimaharaj/navadwip-scsm-kobe-sri
+- **Śrī Tulasī-parikramā-gīti**
+  - https://kirtan.site/en/namo-namah-tulasi-maharani.html
+  - namo namaḥ tulasī mahārāṇī
+    - **Srila B.S. Govinda Dev-Goswami Maharaj**
+      - https://soundcloud.com/kostya-netrebenko/05-namo-namah-tulasi-maharani-13
+    - **Srila B.B. Avadhut Maharaj**
+      - https://soundcloud.com/bharatimaharaj/avadxut-maxaradzh-shri-tulasi
+    - **Srila B.N. Acharya Maharaj**
+      - https://soundcloud.com/kostya-netrebenko/025-namonamahtulasimaharani-2
+- **Śrī Guru-vaiṣṇava Māhātmya-gīti**
+  - https://kirtan.site/en/shri-guru-charana-padma-kevala-bhakati.html
+  - śrī guru charaṇa-padma, kevala-bhakati
+    - **Srila B.S. Govinda Dev-Goswami Maharaj**
+      - https://soundcloud.com/kostya-netrebenko/10-sri-guru-charana-padma-11
+    - **Srila B.N. Acharya Maharaj**
+      - https://soundcloud.com/bharatimaharaj/acharya-maharaj-sri-guru
+    - **Nabadwip temple**
+      - https://soundcloud.com/bharatimaharaj/navadwip-scsm-sri-guru-charana
+- **Sāvaraṇa-Śrī-Gaura-pāda-padme Prārthanā**
+  - https://kirtan.site/en/shri-krishna-chaitanya-prabhu-daya-kara-more.html
+  - śrī kṛṣṇa chaitanya prabhu dayā kara more
+    - **Srila B.S. Govinda Dev-Goswami Maharaj**
+      - https://soundcloud.com/bharatimaharaj/govinda-maharaj-savarana-sri
+    - **Srila B.S. Goswami Maharaj**
+      - https://soundcloud.com/bharatimaharaj/goswami-maharaj-sri-krsna
+    - **Srila B.N. Acharya Maharaj**
+      - https://soundcloud.com/acharyamaharaj/2-savarana-sri-gaura-pada
+    - **Nabadwip temple**
+      - https://soundcloud.com/bharatimaharaj/navadwip-scsm-sri-krishna-1
+      - https://soundcloud.com/bharatimaharaj/navadwip-scsm-sri-krishna
+    - **Srila B.R. Madhusudan Maharaj**
+      - https://soundcloud.com/bharatimaharaj/madhusudan-maharaj-sri-krishna
+    - **Bhakti Lalita Devi**
+      - https://soundcloud.com/bhakti-lalita-devi/bhakti-lalita-devi-savarana-sri-gaura-pada-padme-sri-krishna-chaitanya-prabhu-doya-koro-more
+- **Śrī Vaiṣṇava-mahimā-gīti**
+  - https://kirtan.site/en/vaishnava-thakura-dayara-sagara.html
+  - (ohe) vaiṣṇava ṭhākura, dayāra sāgara
+    - **Srila B.S. Govinda Dev-Goswami Maharaj**
+      - https://soundcloud.com/kostya-netrebenko/07-ohe-vaishnava-thakura-dayara-sagara-12
+    - **Srila B.N. Acharya Maharaj**
+      - https://soundcloud.com/bharatimaharaj/acharya-maharaj-ohe-vaishnava
+    - **Nabadwip temple**
+      - https://soundcloud.com/bharatimaharaj/navadwip-scsm-ohe-vaisnava
+    - **Sudarshan Prabhu**
+      - https://soundcloud.com/bharatimaharaj/sudarshan-prabhu-ohe-vaishnava
+- **Śrī Śrī Prabhupāda-padma Stavakaḥ**
+  - https://kirtan.site/en/sujanarvuda-radhita-pada-yugam.html
+  - sujanārvuda-rādhita-pāda-yugaṁ
+    - **Srila B.S. Govinda Dev-Goswami Maharaj**
+      - https://soundcloud.com/bharatimaharaj/govinda-maharaj-sri-sri
+    - **Srila B.B. Avadhut Maharaj**
+      - https://soundcloud.com/bharatimaharaj/avadxut-maxaradzh-prabxupada
+
+### Śrī Śrī Premadhāma-deva-stotram
+
+- **1-10. Saturday**
+  - https://kirtan.site/en/deva-siddha-mukta-yukta-bhakta-vrinda.html
+  - deva-siddha-mukta-yukta-bhakta-vṛnda
+    - **Srila B.R. Madhusudan Maharaj**
+      - https://soundcloud.com/bharatimaharaj/madhusudan-maharaj-prema-dhama
+- **11-20. Sunday**
+  - https://kirtan.site/en/sutra-vritti-tippanishta-sukshma-vachanadbhutam.html
+  - sūtra-vṛtti-ṭippanīṣṭa-sūkṣma-vāchanādbhutaṁ
+    - **Srila B.R. Madhusudan Maharaj**
+      - https://soundcloud.com/bharatimaharaj/madhusudan-maharaj-prema-dhama
+- **21-30. Monday**
+  - https://kirtan.site/en/dhvasta-sarvvabhauma-vada-navya-tarka-shiankaram.html
+  - dhvasta-sārvvabhauma-vāda-navya-tarka-śāṅkaraṁ
+    - **Srila B.R. Madhusudan Maharaj**
+      - https://soundcloud.com/bharatimaharaj/madhusudan-maharaj-prema-dhama
+- **31-40. Tuesday**
+  - https://kirtan.site/en/prema-mugdha-rudra-raja-shiaurya-virya-vikramam.html
+  - prema-mugdha-rudra-rāja-śaurya-vīrya-vikramaṁ
+    - **Srila B.R. Madhusudan Maharaj**
+      - https://soundcloud.com/bharatimaharaj/madhusudan-maharaj-prema-dhama
+- **41-50. Wednesday**
+  - https://kirtan.site/en/prema-mugdha-nritya-kirtanakularitantikam.html
+  - prema-mugdha-nṛtya-kīrtanākulāriṭāntikaṁ
+    - **Srila B.R. Madhusudan Maharaj**
+      - https://soundcloud.com/bharatimaharaj/madhusudan-maharaj-prema-dhama
+- **51-60. Thursday**
+  - https://kirtan.site/en/shri-sanatananu-rupa-jiva-sampradayakam.html
+  - śrī-sanātanānu-rūpa-jīva-sampradāyakaṁ
+    - **Srila B.R. Madhusudan Maharaj**
+      - https://soundcloud.com/bharatimaharaj/madhusudan-maharaj-prema-dhama
+- **61-72. Friday**
+  - https://kirtan.site/en/yamunambu-krishna-radhikali-keli-mandalam.html
+  - yāmunāmbu-kṛṣṇa-rādhikāli-keli-maṇḍalam
+    - **Srila B.R. Madhusudan Maharaj**
+      - https://soundcloud.com/bharatimaharaj/madhusudan-maharaj-prema-dhama
+
+### Songs to Śrī Nityānanda Prabhu
+
+- **Ājñā-Ṭahal**
+  - https://kirtan.site/en/nadiya-godrume-nityananda-mahajana.html
+  - nadīyā-godrume nityānanda mahājana
+- **Manaḥ-Śikṣā**
+  - https://kirtan.site/en/nitai-pada-kamala-koti-chandra-sushitala.html
+  - nitāi-pada-kamala, koṭī-chandra-suśītala
+    - **Srila B.S. Govinda Dev-Goswami Maharaj**
+      - https://soundcloud.com/bharatimaharaj/govinda-maharaj-nitai-pada-1
+      - https://soundcloud.com/bharatimaharaj/govinda-maharaj-nitai-pada
+    - **Srila B.N. Acharya Maharaj**
+      - https://soundcloud.com/bharatimaharaj/acharya-maharaj-nitay-pada
+- **Sva-Niṣṭha**
+  - https://kirtan.site/en/dhana-mora-nityananda-pati-mora.html
+  - dhana mora nityānanda pati mora
+    - **Srila B.S. Govinda Dev-Goswami Maharaj**
+      - https://soundcloud.com/kostya-netrebenko/19-dhana-mora-nityananda-7
+    - **Srila B.R. Madhusudan Maharaj**
+      - https://soundcloud.com/bharatimaharaj/madhusudan-maharaj-dhana-mora
+- **Nitāi guṇamaṇi āmāra**
+  - https://kirtan.site/en/nitai-gunamani-amara-nitai-gunamani.html
+  - nitāi guṇamaṇi āmāra nitāi guṇamaṇi
+    - **Srila B.N. Acharya Maharaj**
+      - https://soundcloud.com/kostya-netrebenko/034-nitaigunamaniamara-3
+    - **Nabadwip temple**
+      - https://soundcloud.com/bharatimaharaj/navadwip-scsm-nitai-guna-mani
+    - **Sudarshan Prabhu**
+      - https://soundcloud.com/bharatimaharaj/sudarshan-prabhu-nitai
+- **Akrodha paramānanda**
+  - https://kirtan.site/en/akrodha-paramananda.html
+  - akrodha paramānanda
+    - **Srila B.S. Govinda Dev-Goswami Maharaj**
+      - https://soundcloud.com/kostya-netrebenko/20-akrodha-paramananda-nityananda-ray-6
+    - **Srila B.N. Acharya Maharaj**
+      - https://soundcloud.com/bharatimaharaj/acharya-maharaj-akrodha
+    - **Srila B.R. Madhusudan Maharaj**
+      - https://soundcloud.com/bharatimaharaj/madhusudan-maharaj-akrodha
+    - **Srila B.K. Ashram Maharaj**
+      - https://soundcloud.com/scsmathcolombia/11-akrodha-paramananda
+- **Śrī Śrī Gaura-Nityānander Dayā**
+  - https://kirtan.site/en/parama-karuna-pahu-dui-jana.html
+  - parama karuṇa, pahu̐ dūi jana
+    - **Srila B.S. Govinda Dev-Goswami Maharaj**
+      - https://soundcloud.com/bharatimaharaj/govinda-maharaj-parama-koruna
+    - **Srila B.N. Acharya Maharaj**
+      - https://soundcloud.com/bharatimaharaj/acharya-maharaj-paramakaruna
+    - **Nabadwip temple**
+      - https://soundcloud.com/bharatimaharaj/navadwip-scsm-parama-koruna
+- **Dayāl Nitāi Chaitanya**
+  - https://kirtan.site/en/dayal-nitai-chaitanya-bole-nach-re.html
+  - ‘dayāl nitāi chaitanya’ bo’le nāch re
+    - **Caracas temple**
+      - https://soundcloud.com/bharatimaharaj/shchsm-karakas-doi-al-nitai
+
+### Songs to Śrī Chaitanya Mahāprabhu
+
+- **Sāvaraṇa-Śrī-Gaura-mahimā**
+  - https://kirtan.site/en/gaurangera-duti-pada-jar-dhana-sampada.html
+  - gaurāṅgera duṭi pada, jār dhana sampada
+    - **Srila B.S. Govinda Dev-Goswami Maharaj**
+      - https://soundcloud.com/kostya-netrebenko/25-gaurangera-duti-pada-3
+    - **Caracas temple**
+      - https://soundcloud.com/bharatimaharaj/shchsm-karakas-gaurangera-duti
+    - **Bhakti Lalita Devi**
+      - https://soundcloud.com/bhakti-lalita-devi/bhakti-lalita-devi-savarana-sri-gaura-mahima-gaurangera-duti-pada
+    - **Srila B.N. Acharya Maharaj**
+      - https://soundcloud.com/acharyamaharaj/5-savarana-sri-gaura-mahima
+- **Gaurā Pahu̐**
+  - https://kirtan.site/en/gaura-pahu-na-bhajiya-mainu.html
+  - gaurā pahu̐ nā bhajiyā mainu
+- **Avatāra Sāra**
+  - https://kirtan.site/en/avatara-sara-gora-avatara.html
+  - avatāra sāra gorā avatāra
+    - **Srila B.S. Govinda Dev-Goswami Maharaj**
+      - https://soundcloud.com/kostya-netrebenko/24-avatara-sara-gaura-avatara-4
+    - **Srila B.N. Acharya Maharaj**
+      - https://soundcloud.com/bharatimaharaj/acharya-maharaj-avatara-sara
+    - **Caracas temple**
+      - https://soundcloud.com/bharatimaharaj/shchsm-karakas-avatara-sara
+- **Śrī Nāma**
+  - https://kirtan.site/en/gay-gora-madhur-svare.html
+  - gāy gorā madhur svare
+    - **Srila B.S. Govinda Dev-Goswami Maharaj**
+      - https://soundcloud.com/bharatimaharaj/govinda-maharaj-gay-gora
+    - **Srila B.S. Goswami Maharaj**
+      - https://soundcloud.com/bharatimaharaj/goswami-maharaj-gay-gora-1
+      - https://soundcloud.com/bharatimaharaj/goswami-maharaj-gay-gora
+    - **Caracas temple**
+      - https://soundcloud.com/bharatimaharaj/shchsm-karakas-gai-gora-madxur
+    - **Srila B.B. Avadhut Maharaj**
+      - https://soundcloud.com/bharatimaharaj/avadxut-maxaradzh-gaj-goura-1
+      - https://soundcloud.com/bharatimaharaj/avadxut-maxaradzh-gaj-goura
+- **Siddhi-Lālasā**
+  - https://kirtan.site/en/kobe-gaura-vane-suradhuni-tate.html
+  - kobe gaura-vane, suradhunī-taṭe
+    - **Sudarshan Prabhu**
+      - https://soundcloud.com/bharatimaharaj/sudarshan-prabhu-siddhi-lalasa
+- **Kali-ghora timire**
+  - https://kirtan.site/en/kali-ghora-timire-garasala-jagajana.html
+  - kali-ghora timire garasala jagajana
+    - **Srila B.S. Govinda Dev-Goswami Maharaj**
+      - https://soundcloud.com/kostya-netrebenko/27-kali-ghora-timire-1
+- **Jadi Gaura nā ho’to**
+  - https://kirtan.site/en/jadi-gaura-na-hoto-tobe-ki-hoito.html
+  - jadi gaura nā ho’to, tobe ki hoito
+    - **Srila B.S. Govinda Dev-Goswami Maharaj**
+      - https://soundcloud.com/kostya-netrebenko/23-yadi-gaura-na-haite-5
+    - **Srila B.N. Acharya Maharaj**
+      - https://soundcloud.com/madhupuri/1-jadi-goura-na-hoito-acharya
+    - **Sudarshan Prabhu**
+      - https://soundcloud.com/bharatimaharaj/sudarshan-prabhu-jadi-gaura-na
+- **Emona Gaurāṅga bine nāhi āra**
+  - https://kirtan.site/en/emona-gauranga-bine-nahi-ara.html
+  - emona gaurāṅga bine nāhi āra
+- **Ke jabi ke jabi**
+  - https://kirtan.site/en/ke-jabi-ke-jabi-bhai-bhava-sindhu-para.html
+  - ke jabi ke jabi bhāi bhava-sindhu pāra
+    - **Srila B.K. Ashram Maharaj**
+      - https://soundcloud.com/scsmathcolombia/12-ke-jabi-ke-jabi
+- **Vimala hemajini**
+  - https://kirtan.site/en/vimala-hemajin-tanu-anupama-re.html
+  - vimala hemajin tanu anupama re!
+- **‘Gaurāṅga’ bolite habe**
+  - https://kirtan.site/en/gauranga-bolite-hobe-pulaka-shorira.html
+  - ‘gaurāṅga’ bolite hobe pulaka-śorīra
+    - **Caracas temple**
+      - https://soundcloud.com/bharatimaharaj/shchsm-karakas-gauranga-bolite
+- **Śrī Śrī Gaurasundarer Avirbhāva Vasare**
+  - https://kirtan.site/en/aruna-basane-sonara-suraja.html
+  - aruṇa basane sonara sūraja
+- **Śrī Godrumachandra-bhajanopadeśa**
+  - https://kirtan.site/en/yadi-te-hari-pada-saroja-sudha.html
+  - yadi te hari-pāda-saroja-sudhā
+    - **Srila B.R. Madhusudan Maharaj**
+      - https://soundcloud.com/bharatimaharaj/madhusudan-maharaj-jadite
+
+### Other Songs
+
+- **Ṭhākura-vaiṣṇava-pada**
+  - https://kirtan.site/en/thakura-vaishnava-pada-avanira.html
+  - ṭhākura-vaiṣṇava-pada, avanīra
+    - **Srila B.N. Acharya Maharaj**
+      - https://soundcloud.com/kostya-netrebenko/013-thakuravaisnavapadaavanirasusampada-6
+- **Viraha-gīti**
+  - https://kirtan.site/en/je-anilo-prema-dhana-karuna-prachura.html
+  - je ānilo prema-dhana karuṇā prachura
+    - **Srila B.S. Govinda Dev-Goswami Maharaj**
+      - https://soundcloud.com/krsnachaitanya-das/49-ye-anilo-prema-dhana-1
+    - **Srila B.S. Goswami Maharaj**
+      - https://soundcloud.com/bharatimaharaj/goswami-maharaj-viraha-giti
+    - **Srila B.R. Madhusudan Maharaj**
+      - https://soundcloud.com/bharatimaharaj/madhusudan-maharaj-viraha-giti
+- **Vaiṣṇava Vijñāpti**
+  - https://kirtan.site/en/ei-vara-karuna-kara-vaishnava-gosani.html
+  - ei-vāra karuṇā kara vaiṣṇava gosāñi
+    - **Srila B.S. Govinda Dev-Goswami Maharaj**
+      - https://soundcloud.com/bharatimaharaj/govinda-maharaj-ei-baro-koruna
+    - **Srila B.R. Madhusudan Maharaj**
+      - https://soundcloud.com/bharatimaharaj/madhusudan-maharaj-vaishnava
+- **Prārthanā Lalasāmayi**
+  - https://kirtan.site/en/kripa-kara-vaishnava-thakura.html
+  - kṛpa kara’ vaiṣṇava ṭhākura
+- **Śrī Nāmāṣṭakam 8**
+  - https://kirtan.site/en/narada-muni-bajaya-vina.html
+  - nārada muni, bājāya vīṇā
+    - **Bhakti Lalita Devi**
+      - https://soundcloud.com/bhakti-lalita-devi/bhakti-lalita-devi-namastakam-song-8-narada-muni-bajaya-vina
+- **Śrī Śrī Ṣaḍ-Gosvāmy-aṣṭakam**
+  - https://kirtan.site/en/krishnotkirtana-gana-nartana-parau.html
+  - kṛṣṇotkīrtana-gāna-nartana-parau
+    - **Srila B.S. Goswami Maharaj**
+      - https://soundcloud.com/bharatimaharaj/goswami-maharaj-sri-sri-sad
+    - **Srila B.R. Madhusudan Maharaj**
+      - https://soundcloud.com/bharatimaharaj/madhusudan-maharaj-sri-sri-sad
+- **Śrī Nāmāṣṭakam 7**
+  - https://kirtan.site/en/ohe-harinam-tava-mahima-apara.html
+  - ohe harinām, tava mahimā apāra
+- **Ki-rūpe pāibo sevā**
+  - https://kirtan.site/en/ki-rupe-paibo-seva-mui-durachara.html
+  - ki-rūpe pāibo sevā mui durāchāra
+    - **Srila B.N. Acharya Maharaj**
+      - https://soundcloud.com/kostya-netrebenko/015-kirupepaibaseva-7
+- **Bhajahu̐ Re Mana**
+  - https://kirtan.site/en/bhajahu-re-mana-shri-nanda-nandana.html
+  - bhajahu̐ re mana śrī-nanda-nandana
+    - **Srila B.S. Govinda Dev-Goswami Maharaj**
+      - https://soundcloud.com/bharatimaharaj/govinda-maharaj-bhajahu-re-1
+      - https://soundcloud.com/bharatimaharaj/govinda-maharaj-bhajahu-re
+    - **Srila B.K. Ashram Maharaj**
+      - https://soundcloud.com/scsmathcolombia/13-bhajahu-re-mana
+    - **Caracas temple**
+      - https://soundcloud.com/bharatimaharaj/shchsm-karakas-bxadzhaxu-re
+    - **Bhakti Lalita Devi**
+      - https://soundcloud.com/bhakti-lalita-devi/bhakti-lalita-devi-bhajahu-re-mana
+- **Mānasa Deho Geho**
+  - https://kirtan.site/en/manasa-deho-geho-jo-kichu-mora.html
+  - mānasa, deho, geho, jo kichū mora
+    - **Srila B.S. Govinda Dev-Goswami Maharaj**
+      - https://soundcloud.com/bharatimaharaj/govinda-maharaj-manasa-deho
+- **E ghora saṁsare**
+  - https://kirtan.site/en/e-ghora-samsare-podiya-manava.html
+  - e ghora saṁsāre, poḍiyā mānava
+- **Vaiṣṇava Ke?**
+  - https://kirtan.site/en/dushta-mana-tumi-kisera-vaishnava.html
+  - duṣṭa mana! tumi kisera vaiṣṇava?
+- **Dainyātmikā**
+  - https://kirtan.site/en/emona-durmati-samsara-bhitore.html
+  - emona durmati, saṁsāra bhitore
+    - **Srila B.S. Govinda Dev-Goswami Maharaj**
+      - https://soundcloud.com/bharatimaharaj/govinda-maharaj-emona-durmati
+    - **Srila B.R. Sridhar Dev-Goswami Maharaj**
+      - https://soundcloud.com/bharatimaharaj/sridhar-maharaj-and-govinda-7
+    - **Srila B.N. Acharya Maharaj**
+      - https://soundcloud.com/bharatimaharaj/acharya-maharaj-emona-durmati
+    - **Srila B.S. Goswami Maharaj**
+      - https://soundcloud.com/bharatimaharaj/goswami-maharaj-emona-durmati
+    - **Nabadwip temple**
+      - https://soundcloud.com/bharatimaharaj/navadwip-scsm-emona-durmati
+    - **Caracas temple**
+      - https://soundcloud.com/bharatimaharaj/shchsm-karakas-emona-durmati
+    - **Sudarshan Prabhu**
+      - https://soundcloud.com/bharatimaharaj/sudarshan-prabhu-dainyatmika
+    - **Srila B.B. Avadhut Maharaj**
+      - https://soundcloud.com/bharatimaharaj/avadxut-maxaradzh-emona
+      - https://soundcloud.com/bharatimaharaj/avadxut-maxaradzh-emona-1
+- **Goptṛtve Varaṇa**
+  - https://kirtan.site/en/ki-jani-ki-bale-tomara-dhamete.html
+  - ki jāni ki bale, tomāra dhāmete
+    - **Srila B.S. Govinda Dev-Goswami Maharaj**
+      - https://soundcloud.com/bharatimaharaj/govinda-maharaj-goptritve
+    - **Sudarshan Prabhu**
+      - https://soundcloud.com/bharatimaharaj/sudarshan-prabhu-goptrtve
+- **Dainya**
+  - https://kirtan.site/en/bhuliya-tomare-samsare-asiya.html
+  - bhuliyā tomāre, saṁsāre āsiyā
+    - **Srila B.S. Govinda Dev-Goswami Maharaj**
+      - https://soundcloud.com/kostya-netrebenko/18-bhuliya-tomare-samsara-asiya-8
+- **Bhajan-Lālasā**
+  - https://kirtan.site/en/hari-he-prapanche-podiya-agati-hoiya.html
+  - hari he! prapañche poḍiyā, agati hoiyā
+- **Iṣṭa-deve Vijñapti**
+  - https://kirtan.site/en/hari-hari-biphole-janama-goyainu.html
+  - hari hari! biphole janama goyāinu
+    - **Srila B.S. Govinda Dev-Goswami Maharaj**
+      - https://soundcloud.com/bharatimaharaj/govinda-maharaj-hari-hari
+    - **Caracas temple**
+      - https://soundcloud.com/bharatimaharaj/shchsm-karakas-xari-xari
+- **Ātma-nivedana**
+  - https://kirtan.site/en/atma-nivedana-tuya-pade-kori.html
+  - ātma-nivedana, tuyā pade kori
+- **Āmāra jīvana**
+  - https://kirtan.site/en/amara-jivana-sada-pape-rata.html
+  - āmāra jīvana, sadā pāpe rata
+    - **Bhudev Prabhu**
+      - https://soundcloud.com/jayasri-sound/05-amara-jivana
+    - **Srila B.N. Acharya Maharaj**
+      - https://soundcloud.com/kostya-netrebenko/017-amarajivana-1
+- **Tumi sarveśvareśvara**
+  - https://kirtan.site/en/tumi-sarveshvareshvara-vrajendra-kumara.html
+  - tumi sarveśvareśvara, vrajendra-kumāra!
+- **Sarvasva tomāra**
+  - https://kirtan.site/en/sarvasva-tomara-charane-sanpiya.html
+  - sarvasva tomāra, charaṇe sa̐piyā
+    - **Srila B.R. Sridhar Dev-Goswami Maharaj**
+      - https://soundcloud.com/bharatimaharaj/sridhar-maharaj-and-govinda-4
+    - **Sudarshan Prabhu**
+      - https://soundcloud.com/bharatimaharaj/sudarshan-prabhu-sarvasva
+- **Tātala Saikate**
+  - https://kirtan.site/en/tatala-saikate-vari-bindu-sama.html
+  - tātala saikate vāri bindu-sama
+- **Dainya O Prapatti**
+  - https://kirtan.site/en/hari-he-dayala-mora-jaya-radha-natha.html
+  - hari he dayāla mora jaya rādhā-nātha
+    - **Srila B.S. Govinda Dev-Goswami Maharaj**
+      - https://soundcloud.com/bharatimaharaj/govinda-maharaj-hari-he-doyala
+- **Ātma-samarpaṇe**
+  - https://kirtan.site/en/atma-samarpane-gela-abhimana.html
+  - ātma-samarpaṇe gelā abhimāna
+    - **Bhakti Lalita Devi**
+      - https://soundcloud.com/bhakti-lalita-devi/atma-samarpane-bhakti-lalita-devi
+- **Kobe ho’be bolo**
+  - https://kirtan.site/en/kobe-hobe-bolo-se-dina-amar.html
+  - kobe ho’be bolo se-dina āmār
+    - **Bhakti Lalita Devi**
+      - https://soundcloud.com/bhakti-lalita-devi/bhakti-lalita-devi-kabe-habe-bolo-acapella-1
+- **Nivedana 1**
+  - https://kirtan.site/en/gopinath-mama-nivedana-shiuno.html
+  - gopīnāth, mama nivedana śuno
+    - **Srila B.S. Govinda Dev-Goswami Maharaj**
+      - https://soundcloud.com/krsnachaitanya-das/37-gopinath-mama-nivedana-suna-4
+    - **Srila B.R. Madhusudan Maharaj**
+      - https://soundcloud.com/bharatimaharaj/madhusudan-maharaj-gopinath-1
+      - https://soundcloud.com/bharatimaharaj/madhusudan-maharaj-gopinath
+- **Nivedana 2**
+  - https://kirtan.site/en/gopinath-ghuchao-samsara-jvala.html
+  - gopīnāth, ghuchāo saṁsāra-jvālā
+- **Nivedana 3**
+  - https://kirtan.site/en/gopinath-amara-upaya-nai.html
+  - gopīnāth, āmāra upāya nāi
+- **Śrī-Rūpa-Mañjarī-pada**
+  - https://kirtan.site/en/shri-rupa-manjari-pada-sei-mora-sampada.html
+  - śrī-rūpa-mañjarī-pada, sei mora sampada
+    - **Srila B.S. Govinda Dev-Goswami Maharaj**
+      - https://soundcloud.com/bharatimaharaj/govinda-maharaj-sri-rupa
+- **Durlabha mānava-janma**
+  - https://kirtan.site/en/durlabha-manava-janma-labhiya-samsare.html
+  - durlabha mānava-janma labhiyā saṁsāre
+    - **Srila B.S. Govinda Dev-Goswami Maharaj**
+      - https://soundcloud.com/kostya-netrebenko/16-durlabha-manava-janma-9
+    - **Caracas temple**
+      - https://soundcloud.com/bharatimaharaj/shchsm-karakas-durlava-manava
+- **Anya-abhilāṣa chāḍi**
+  - https://kirtan.site/en/anya-abhilasha-chadi-jniana-karma-parihari.html
+  - anya-abhilāṣa chāḍi jñāna karma parihari
+
+### Śrī Śikṣāṣṭakam
+
+- **1. Pita-varaṇa kali**
+  - https://kirtan.site/en/pita-varana-kali-pavana-gora.html
+  - pīta-varaṇa kali-pāvana gorā
+    - **Bhakti Lalita Devi**
+      - https://soundcloud.com/bhakti-lalita-devi/pita-barana-kali-pavana-gora
+      - https://soundcloud.com/bhakti-lalita-devi/bhakti-lalita-devi-pita-barana-kali-pavana-gora
+    - **Srila B.N. Acharya Maharaj**
+      - https://soundcloud.com/kostya-netrebenko/100-srisrisiksastakam1-6
+- **2. Tuhu̐ dayā-sāgara**
+  - https://kirtan.site/en/tuhu-daya-sagara-tarayite-prani.html
+  - tuhu̐ dayā-sāgara tārayite prāṇī
+    - **Bhakti Lalita Devi**
+      - https://soundcloud.com/bhakti-lalita-devi/tuhu-doya-sagara-tarayite-prani
+    - **Srila B.N. Acharya Maharaj**
+      - https://soundcloud.com/kostya-netrebenko/101-srisrisiksastakam2-1
+- **3. Śrī-Kṛṣṇa-kīrtane jodi**
+  - https://kirtan.site/en/shri-krishna-kirtane-jodi-manasa-tohara.html
+  - śrī-kṛṣṇa-kīrtane jodi mānasa tohāra
+    - **Srila B.N. Acharya Maharaj**
+      - https://soundcloud.com/kostya-netrebenko/102-srisrisiksastakam3-7
+    - **Bhakti Lalita Devi**
+      - https://soundcloud.com/bhakti-lalita-devi/sri-krishna-kirtane-jodi-manasa-tohara
+- **4. Prabhu tava pada**
+  - https://kirtan.site/en/prabhu-tava-pada-juge-mora-nivedana.html
+  - prabhu tava pada-juge mora nivedana
+    - **Srila B.N. Acharya Maharaj**
+      - https://soundcloud.com/kostya-netrebenko/103-srisrisiksastakam4-4
+    - **Bhakti Lalita Devi**
+      - https://soundcloud.com/bhakti-lalita-devi/prabhu-tava-pada-juge
+- **5. Anādi karama phole**
+  - https://kirtan.site/en/anadi-karama-phole.html
+  - anādi karama-phole
+    - **Srila B.N. Acharya Maharaj**
+      - https://soundcloud.com/kostya-netrebenko/104-srisrisiksastakam5-3
+    - **Bhakti Lalita Devi**
+      - https://soundcloud.com/bhakti-lalita-devi/anadi-karama-phole
+- **6. Aparādha-phole mama**
+  - https://kirtan.site/en/aparadha-phole-mama.html
+  - aparādha-phole mama
+    - **Bhakti Lalita Devi**
+      - https://soundcloud.com/bhakti-lalita-devi/aparadha-phole-mama
+    - **Srila B.N. Acharya Maharaj**
+      - https://soundcloud.com/kostya-netrebenko/105-srisrisiksastakam6-5
+- **7a. Gāite gāite nāma**
+  - https://kirtan.site/en/gaite-gaite-nama-ki-doshia-hoilo.html
+  - gāite gāite nāma ki dośā hoilo
+    - **Bhakti Lalita Devi**
+      - https://soundcloud.com/bhakti-lalita-devi/gaite-gaite-nama-ki-dasa-hoilo
+    - **Srila B.N. Acharya Maharaj**
+      - https://soundcloud.com/kostya-netrebenko/106-srisrisiksastakam7-2
+- **7b. Gāite ‘govinda’–nām**
+  - https://kirtan.site/en/gaite-govinda-nam-upajilo-bhava-gram.html
+  - gāite ‘govinda’-nām, upajilo bhāva-grām
+    - **Bhakti Lalita Devi**
+      - https://soundcloud.com/bhakti-lalita-devi/gaite-govinda-nam
+- **7c. Sakhī go kemote**
+  - https://kirtan.site/en/sakhi-go-kemote-dhoribo-paran.html
+  - sakhi go kemote dhoribo parāṇ
+    - **Bhakti Lalita Devi**
+      - https://soundcloud.com/bhakti-lalita-devi/sakhi-go-kemote
+- **8a. Bondhu-goṇ! śunoho**
+  - https://kirtan.site/en/bondhu-gon-shiunoho-vachana-mora.html
+  - bondhu-goṇ! śunoho vachana mora
+    - **Bhakti Lalita Devi**
+      - https://soundcloud.com/bhakti-lalita-devi/bondhu-gon-sunoho-vachana-mora
+    - **Srila B.N. Acharya Maharaj**
+      - https://soundcloud.com/kostya-netrebenko/107-srisrisiksastakam8-8
+- **8b. Yoga-pīṭhopari-sthita**
+  - https://kirtan.site/en/yoga-pithopari-sthita-ashta-sakhi-subeshtita.html
+  - yoga-pīṭhopari-sthita, aṣṭa-sakhī-subeṣṭita
+
+### Songs to Śrīmatī Rādhārāṇī
+
+- **Śrī Rādhāṣṭaka 1**
+  - https://kirtan.site/en/radhika-charana-padma-sakala-shreyera.html
+  - rādhikā-charaṇa-padma, sakala śreyera
+    - **Srila B.R. Sridhar Dev-Goswami Maharaj**
+      - https://soundcloud.com/bharatimaharaj/sridhar-maharaj-and-govinda-2
+    - **Srila B.S. Govinda Dev-Goswami Maharaj**
+      - https://soundcloud.com/krsnachaitanya-das/33-radhika-charana-padma-7
+- **Śrī Rādhāṣṭaka 2**
+  - https://kirtan.site/en/virajar-pare-shiuddha-paravyoma-dham.html
+  - virajār pāre śuddha-paravyoma-dhām
+    - **Srila B.R. Sridhar Dev-Goswami Maharaj**
+      - https://soundcloud.com/bharatimaharaj/sridhar-maharaj-and-govinda-1
+- **Śrī Rādhāṣṭaka 3**
+  - https://kirtan.site/en/radha-bhajane-jodi-moti-nahi-bhela.html
+  - rādhā-bhajane jodi moti nāhi bhelā
+    - **Srila B.S. Govinda Dev-Goswami Maharaj**
+      - https://soundcloud.com/krsnachaitanya-das/31-radha-bhajane-yadi-8
+    - **Srila B.N. Acharya Maharaj**
+      - https://soundcloud.com/kostya-netrebenko/076-radhabhajaneyadi-10
+    - **Caracas temple**
+      - https://soundcloud.com/bharatimaharaj/sridhar-maharaj-and-573711371
+- **Rādhā-kuṇḍataṭa-kuñja-kuṭīra**
+  - https://kirtan.site/en/radhakundatata-kunjakutira.html
+  - rādhākuṇḍataṭa-kuñjakuṭīra
+    - **Srila B.R. Sridhar Dev-Goswami Maharaj**
+      - https://soundcloud.com/bharatimaharaj/sridhar-maharaj-and-govinda-5
+    - **Srila B.S. Govinda Dev-Goswami Maharaj**
+      - https://soundcloud.com/krsnachaitanya-das/36-radha-kunda-tata-5
+    - **Srila B.R. Madhusudan Maharaj**
+      - https://soundcloud.com/bharatimaharaj/madhusudan-maharaj-day-programm-kisel
+- **Śrī Rādhikā-stava**
+  - https://kirtan.site/en/radhe-jaya-jaya-madhava-dayite.html
+  - rādhe jaya jaya mādhava-dayite
+    - **Srila B.S. Govinda Dev-Goswami Maharaj**
+      - https://soundcloud.com/bharatimaharaj/govinda-maharaj-radhe-jaya
+    - **Srila B.R. Sridhar Dev-Goswami Maharaj**
+      - https://soundcloud.com/bharatimaharaj/sridhar-maharaj-and-govinda
+    - **Srila B.S. Goswami Maharaj**
+      - https://soundcloud.com/bharatimaharaj/goswami-maharaj-radhe-jaya
+    - **Bhakti Lalita Devi**
+      - https://soundcloud.com/bhakti-lalita-devi/bhakti-lalita-devi-sri-radhika-stava
+    - **Srila B.N. Acharya Maharaj**
+      - https://soundcloud.com/acharyamaharaj/sri-radhika-stava
+    - **Srila B.P. Janardan Maharaj**
+      - https://soundcloud.com/bharatimaharaj/janardan-maharaj-radhe-jaya
+
+### Songs to Śrī Krishna
+
+- **He deva bhavantaṁ vande**
+  - https://kirtan.site/en/he-deva-bhavantam-vande.html
+  - he deva bhavantaṁ vande
+    - **Srila B.S. Govinda Dev-Goswami Maharaj**
+      - https://soundcloud.com/bharatimaharaj/govinda-maharaj-he-deva
+    - **Bhakti Lalita Devi**
+      - https://soundcloud.com/bhakti-lalita-devi/bhakti-lalita-devi-kabe-habe-bolo-acapella
+    - **Srila B.P. Janardan Maharaj**
+      - https://soundcloud.com/bharatimaharaj/janardan-maharaj-he-deva
+- **Jaya Rādhā-Mādhava**
+  - https://kirtan.site/en/radha-madhava-kunja-bihari.html
+  - (jaya) rādhā-mādhava (jaya) kuñja-bihārī
+    - **Srila B.S. Govinda Dev-Goswami Maharaj**
+      - https://soundcloud.com/bharatimaharaj/govinda-maharaj-jaya-radha-4
+      - https://soundcloud.com/bharatimaharaj/govinda-maharaj-jaya-radha-3
+      - https://soundcloud.com/bharatimaharaj/govinda-maharaj-jaya-radha-2
+      - https://soundcloud.com/bharatimaharaj/govinda-maharaj-jaya-radha-1
+      - https://soundcloud.com/bharatimaharaj/govinda-maharaj-jaya-radha
+    - **Srila B.S. Goswami Maharaj**
+      - https://soundcloud.com/bharatimaharaj/goswami-maharaj-jaya-radha
+    - **Srila B.N. Acharya Maharaj**
+      - https://soundcloud.com/acharyamaharaj/6-jaya-radha-madhava
+    - **Srila B.B. Avadhut Maharaj**
+      - https://soundcloud.com/bharatimaharaj/avadxut-maxaradzh-dzhaya-1
+      - https://soundcloud.com/bharatimaharaj/avadxut-maxaradzh-dzhaya-radxa
+- **Mayura mukuṭa**
+  - https://kirtan.site/en/mayura-mukuta-pitambara-dhari.html
+  - mayura-mukuṭa pītāmbara-dhārī
+    - **Sadhu Priya Prabhu**
+      - https://soundcloud.com/huron/mayura-mukuta
+- **Śrī Jugala-ārati**
+  - https://kirtan.site/en/jaya-jaya-radha-krishna-jugala-milan.html
+  - jaya jaya rādhā-kṛṣṇa jugala-milan
+- **Sakhi-vṛnde Vijñaptiḥ**
+  - https://kirtan.site/en/radha-krishna-prana-mora-jugala-kishora.html
+  - rādhā-kṛṣṇa prāṇa mora jugala-kiśora
+    - **Srila B.S. Govinda Dev-Goswami Maharaj**
+      - https://soundcloud.com/krsnachaitanya-das/34-radha-krsna-prana-mora-yugala-kisora-6
+- **Śrī Vraja-dhāma-mahimāmṛta**
+  - https://kirtan.site/en/jaya-radhe-jaya-krishna-jaya-vrindavan.html
+  - jaya rādhe, jaya kṛṣṇa, jaya vṛndāvan
+    - **Srila B.S. Govinda Dev-Goswami Maharaj**
+      - https://soundcloud.com/bharatimaharaj/govinda-maharaj-jaya-radhe
+    - **Srila B.S. Goswami Maharaj**
+      - https://soundcloud.com/bharatimaharaj/goswami-maharaj-jaya-radhe
+    - **Caracas temple**
+      - https://soundcloud.com/bharatimaharaj/shchsm-karakas-dzhaya-radxe-1
+      - https://soundcloud.com/bharatimaharaj/shchsm-karakas-dzhaya-radxe
+    - **Srila B.R. Madhusudan Maharaj**
+      - https://soundcloud.com/bharatimaharaj/madhusudan-maharaj-jaya-radhe
+- **Rūpa-Kīrtan**
+  - https://kirtan.site/en/janama-saphala-tara-krishna-darashiana-jara.html
+  - janama saphala tā’ra, kṛṣṇa-daraśana jā’ra
+    - **Srila B.S. Govinda Dev-Goswami Maharaj**
+      - https://soundcloud.com/bharatimaharaj/govinda-maharaj-janamasaphala
+- **Guṇa-Kīrtan**
+  - https://kirtan.site/en/shiuno-he-rasika-jon-krishna-guna-aganon.html
+  - śuno, he rasika jon kṛṣṇa guṇa agaṇon
+    - **Srila B.S. Govinda Dev-Goswami Maharaj**
+      - https://soundcloud.com/krsnachaitanya-das/38-suno-he-rasika-jana-3
+- **Jaya Yaśodā-Nandana Kṛṣṇa**
+  - https://kirtan.site/en/jaya-yashoda-nandana-krishna-gopala-govinda.html
+  - jaya yaśodā-nandana kṛṣṇa gopāla govinda
+    - **Srila B.N. Acharya Maharaj**
+      - https://soundcloud.com/bharatimaharaj/acharya-maharaj-yasoda-nandana
+    - **Caracas temple**
+      - https://soundcloud.com/bharatimaharaj/shchsm-karakas-dzhashoda
+- **Śrita Kamalā**
+  - https://kirtan.site/en/shrita-kamala-kuchha-mandala-dhrita.html
+  - śrita-kamalā-kuchha-maṇḍala dhṛta
+    - **Sudarshan Prabhu**
+      - https://soundcloud.com/bharatimaharaj/sudarshan-prabhu-srita-kamala
+    - **Bhakti Lalita Devi**
+      - https://soundcloud.com/bhakti-lalita-devi/sri-mangala-gitam
+
+### Songs on Special Days
+
+- **Āchārya-charaṇa-vandana**
+  - https://kirtan.site/en/jaya-shrila-maharaja-charanaravinda.html
+  - jaya śrīla mahārāja charaṇāravinda
+- **Śrī Guru-paramparā**
+  - https://kirtan.site/en/krishna-hoite-chatur-mukha.html
+  - kṛṣṇa hoite chatur-mukha
+    - **Srila B.N. Acharya Maharaj**
+      - https://soundcloud.com/bharatimaharaj/acharya-maharaj-guru-parampara
+    - **Srila B.B. Avadhut Maharaj**
+      - https://soundcloud.com/bharatimaharaj/avadxut-maxaradzh-shri-guru
+- **Śrī Dayita Dās Praṇati Pañchakam**
+  - https://kirtan.site/en/bhayabhanjana-jayashiamsana.html
+  - bhayabhañjana jayaśaṁsana
+    - **Srila B.S. Govinda Dev-Goswami Maharaj**
+      - https://soundcloud.com/bharatimaharaj/govinda-maharaj-sri-dayita
+- **Āchārya vandana**
+  - https://kirtan.site/en/jayare-jayare-jaya-paramahamsa-mahashiaya.html
+  - jayare jayare jaya paramahaṁsa mahāśaya
+    - **Srila B.R. Sridhar Dev-Goswami Maharaj**
+      - https://soundcloud.com/bharatimaharaj/sridhar-maharaj-and-govinda-8
+    - **Srila B.S. Govinda Dev-Goswami Maharaj**
+      - https://soundcloud.com/bharatimaharaj/govinda-maharaj-acharya
+- **Śrī Daśāvatār-stotram**
+  - https://kirtan.site/en/pralaya-payodhi-jale-dhritavan-asi-vedam.html
+  - pralaya-payodhi-jale dhṛtavān asi vedaṁ
+    - **Srila B.S. Govinda Dev-Goswami Maharaj**
+      - https://soundcloud.com/krsnachaitanya-das/39-sri-dasavatar-stotram-2
+- **Śrī Nṛsiṁha Praṇām**
+  - https://kirtan.site/en/namas-te-narasimhaya.html
+  - namas te narasiṁhāya
+    - **Srila B.S. Goswami Maharaj**
+      - https://soundcloud.com/bharatimaharaj/goswami-maharaj-s-ri-nr-sim-ha
+    - **Bhakti Lalita Devi**
+      - https://soundcloud.com/bhakti-lalita-devi/bhakti-lalita-devi-sri-nrsimha-pranam-namas-te-narisimhaya
+- **Śrī Śrī Dāmodarāṣṭakam**
+  - https://kirtan.site/en/namamishvaram-sachchidananda-rupam.html
+  - namāmīśvaraṁ sachchidānanda rūpaṁ
+    - **Srila B.S. Govinda Dev-Goswami Maharaj**
+      - https://soundcloud.com/bharatimaharaj/govinda-maharaj-damodarastakam
+      - https://soundcloud.com/bharatimaharaj/govinda-maharaj-sri-sri-1
+    - **Srila B.B. Avadhut Maharaj**
+      - https://soundcloud.com/bharatimaharaj/avadxut-maxaradzh
+    - **Bhakti Lalita Devi**
+      - https://soundcloud.com/bhakti-lalita-devi/bhakti-lalita-damodarastakam-happy-motif
+- **Śrīman Mahāprabhur śata-nāma**
+  - https://kirtan.site/en/nadiya-nagare-nitai-neche-neche-gay-re.html
+  - nadīyā-nagare nitāi neche neche gāy re
+- **Śrī Kṛṣṇera Viṁsottara-śata-nāma**
+  - https://kirtan.site/en/nagare-nagare-gora-gay.html
+  - nagare nagare gorā gāy
+    - **Srila B.S. Goswami Maharaj**
+      - https://soundcloud.com/bharatimaharaj/goswami-maharaj-jasomati
+- **Śrī Hari-vāsara-gīti**
+  - https://kirtan.site/en/shri-hari-vasare-hari-kirtana-vidhana.html
+  - śrī hari-vāsare hari-kīrtana-vidhāna
+    - **Srila B.N. Acharya Maharaj**
+      - https://soundcloud.com/kostya-netrebenko/082-sriharivasare-9
+- **Śuddha-bhakata**
+  - https://kirtan.site/en/shiuddha-bhakata-charana-renu.html
+  - śuddha-bhakata-charaṇa-reṇu
+    - **Srila B.N. Acharya Maharaj**
+      - https://soundcloud.com/kostya-netrebenko/083-suddhabhakatacharanarenu-11
+- **Śrī Gaura Purṇīmā**
+  - https://kirtan.site/en/chaudda-shiata-sata-shiake-masa-je-phalgun.html
+  - chaudda-śata sāta-śake māsa je phālgun
+    - **Srila B.N. Acharya Maharaj**
+      - https://soundcloud.com/madhupuri/4-chauda-sata-sat-acharya
+- **Prabhu kohe**
+  - https://kirtan.site/en/prabhu-kohe-kohilan-ei-mahamantra.html
+  - prabhu kohe—kohilaṅ ei mahāmantra
+    - **Nitai Prabhu**
+      - https://soundcloud.com/scsmission/prabhu-kohe-sung-by-nitai-dasa
+    - **Sadhu Priya Prabhu**
+      - https://soundcloud.com/huron/prabhu-kohe-kohilan
+- **After parikramā**
+  - https://kirtan.site/en/nagara-bhramiya-amara-gaura-elo-ghore.html
+  - nagara bhramiyā āmāra gaura elo ghore
+- **Śrī Nagara Kīrtana 4**
+  - https://kirtan.site/en/radha-krishna-bol-bol-bolo-re-sobai.html
+  - ‘rādhā-kṛṣṇa’ bol bol bolo re sobāi
+- **Śrī Nagara Kīrtana 8**
+  - https://kirtan.site/en/hari-bole-modera-gaura-elo.html
+  - ‘hari’ bole’ modera gaura elo
+
+### Compositions of Śrīla Śrīdhar Mahārāj
+
+- **Śrīmad Bhakti Vinod-viraha Daśakam**
+  - https://kirtan.site/en/ha-ha-bhaktivinoda-thakkura-guroh.html
+  - hā hā bhaktivinoda-ṭhakkura! guroḥ!
+- **Śrī Śrīmad Gaura-Kiśora-namaskāra Daśakam**
+  - https://kirtan.site/en/guror-guro-me-paramo-gurus-tvam.html
+  - guror guro me paramo gurus tvaṁ
+- **Śrī Śrī Dayita Dās Daśakam**
+  - https://kirtan.site/en/nite-yasmin-nishiante-nayana-jala-bharaih.html
+  - nīte yasmin niśānte nayana-jala-bharaiḥ
+    - **Srila B.S. Govinda Dev-Goswami Maharaj**
+      - https://soundcloud.com/bharatimaharaj/govinda-maharaj-sri-sri-dayita
+- **Śrīmad Rūpa-pada-rajaḥ Prārthanā Daśakam**
+  - https://kirtan.site/en/shrimach-chaitanyapadau-chara.html
+  - śrīmach-chaitanyapādau chara
+- **Śrīman Nityānanda Dvādaśakam**
+  - https://kirtan.site/en/yo-nanto-nanta-vaktrair-niravadhi.html
+  - yo ’nanto ’nanta-vaktrair niravadhi
+    - **Srila B.S. Govinda Dev-Goswami Maharaj**
+      - https://soundcloud.com/bharatimaharaj/govinda-maharaj-sriman
+- **Śrī Gaurahari-Kusuma-Stavāṣṭakam**
+  - https://kirtan.site/en/guru-rupa-virajita-nanda-sutam.html
+  - guru-rūpa-virājita-nanda-sutaṁ
+
+### Compositions of Śrīla Govinda Mahārāj
+
+- **Praṇām Mantra to Śrīla Guru Mahārāj**
+  - https://kirtan.site/en/shri-svarupa-raya-rupa-jiva-bhava.html
+  - śrī-svarūpa-rāya-rūpa jīva-bhāva
+- **Praṇati Daśakam**
+  - https://kirtan.site/en/naumi-shri-gurupadabjam.html
+  - naumi śrī-gurupādābjaṁ
+    - **Srila B.N. Acharya Maharaj**
+      - https://soundcloud.com/kostya-netrebenko/094-naumisrigurupadabjam-sripranatidasakam-12
+- **Śrī Govinda Kuṇḍa Māhātmya**
+  - https://kirtan.site/en/samudra-sambhava-gabhi-surabhi-apana.html
+  - samudra-sambhavā gābhī surabhī āpana
+- **Gaṅgadhara Sadāśiva Praṇām-Mantram**
+  - https://kirtan.site/en/devadidevam-ahibhushanam-indukashiam.html
+  - devādidevam-ahibhūṣaṇam-indukāśaṁ
+- **Śrī Guru-Praśastiḥ**
+  - https://kirtan.site/en/bhagyadhishia-tvadiyo-vimala-sukhamayah.html
+  - bhāgyādhīśa! tvadīyo vimala-sukhamayaḥ
+    - **Srila B.N. Acharya Maharaj**
+      - https://soundcloud.com/kostya-netrebenko/092-bhagyadhisatvadiyo-sriguruprasasti-13
+- **Praṇati-Pañchakam**
+  - https://kirtan.site/en/nava-nalina-ganjitam-kusuma-dala.html
+  - nava-nalina-gañjitaṁ kusuma-dala
+- **Māyā Duratyayā**
+  - https://kirtan.site/en/maha-bhaya-shiankula-e-bhava-tarangini.html
+  - mahā-bhaya śaṅkula e bhava taraṅginī
+- **Svarūpodbodhana**
+  - https://kirtan.site/en/ami-guru-dasa-nahi-anya.html
+  - āmi guru-dāsa—nahi anya
+
+## Other
+
+### Шри Шикшаштакам
+
+- **Шри Шикшаштакам**
+  - https://kirtan.site/ru/cheto-darpana-marjanam.html
+  - чето-дарпан̣а-ма̄рджанам̇
+    - **Srila B.B. Avadhut Maharaj**
+      - https://soundcloud.com/bharatimaharaj/avadxut-maxaradzh-1
+    - **Bhakti Lalita Devi**
+      - https://soundcloud.com/bhakti-lalita-devi/siksastakam-sanskrit-verses
+
+### Canciones para Śrī Nityānanda Prabhu
+
+- **Śrī Nāma Kīrtan 3**
+  - https://kirtan.site/es/haribolo-haribolo-haribolo-bhai-re.html
+  - hari bolo hari bolo bhāi re
+
+### Vandanā
+
+- **Śrī Guru, Śrī Gaurasundar, Śrī Śrī Rādhā–Madan Gopāl**
+  - https://kirtan.site/pt/jayah-sa-parikara-shri-shri-guru-gaurangasundar.html
+  - jayaḥ sa-parikara śrī-śrī-guru-gaurāṅgasundar
+
+### Otras Canciones
+
+- **Śreyaḥ Nirṇaya 2**
+  - https://kirtan.site/es/ara-keno-maya-jale.html
+  - āra keno māyā-jāle
+- **Śrī Govinda Kuṇḍa Mahātmya**
+  - https://kirtan.site/es/atha-govardhane-ramye-surabhi.html
+  - atha govardhane
+- **Jīva-gati**
+  - https://kirtan.site/es/chit-kana-jiva-krishna.html
+  - chit-kaṇa jīva kṛṣṇa
+- **Prasāda-sevāya 2-3**
+  - https://kirtan.site/es/eka-dina-shiantipure.html
+  - eka-dina śāntipure
+- **Bhajana-Lālasā, 10**
+  - https://kirtan.site/es/gurudeva-bada-kripa-kari.html
+  - gurudeva! baḍa kṛpā kari
+- **Bhajana-Lālasā, 12**
+  - https://kirtan.site/es/gurudeva-kabe-mora-sei-dina.html
+  - gurudeva! kabe mora sei dina
+- **Prārthana Lalasāmayī, 9**
+  - https://kirtan.site/es/kabe-habe-heno-dashia-mora.html
+  - kabe ha’be heno daśā mora
+- **Vrajarāja-sutaṣṭakam**
+  - https://kirtan.site/es/nava-nirada-nindita.html
+  - nava-nīrada-nindita
+- **Rādhā Kṛṣṇa vandana**
+  - https://kirtan.site/es/radhe-govinda.html
+  - (jaya) rādhe govinda
+
+### Kīrtan de la Mañana
+
+- **Śrī Gurudeva Stuti**
+  - https://kirtan.site/es/jaya-jaya-gurudeva-acharya-nirmala.html
+  - jaya gurudeva āchārya nirmala
+
+### Песни, посвященные Нитьянанде Прабху
+
+- **Нитай амар дайар авадхи**
+  - https://kirtan.site/ru/are-bhai-nitai-amar-dayara-avadhi.html
+  - а̄ре бха̄и! нита̄и а̄ма̄р дайа̄ра авадхи!
+- **Шри Шри Нитьянанда-аштакам**
+  - https://kirtan.site/ru/sarach-chandra-bhrantim-sphurad-amala-kantim.html
+  - сарач-чандра-бхра̄нтим̇ спхурад-амала-ка̄нтим̇
+
+### Песни, посвященные Господу Чайтанье
+
+- **Бимала хемаджини**
+  - https://kirtan.site/ru/bimala-hemajini-tanu-anupama-re.html
+  - бимала хемаджини тану анупама ре!
+    - **Srila B.S. Govinda Dev-Goswami Maharaj**
+      - https://soundcloud.com/kostya-netrebenko/26-bimala-hema-jini-2
+
+### Введение
+
+- **Лого Шри Чайтанья Сарасват Матха**
+  - https://kirtan.site/ru/gayatri-muralishta-kirtana-dhanam.html
+  - га̄йатрӣ муралӣш̣т̣а-кӣртана-дханам̇
+- **Введение**
+  - https://kirtan.site/ru/intro.html
+  - Введение
+
+### Произведения Шрилы Говинды Махараджа
+
+- **Ахвана**
+  - https://kirtan.site/ru/jagate-nikhila-tamasavrita.html
+  - джāгāте никхила тамасāвр̣та
+- **Вирачандра-прашаштих**
+  - https://kirtan.site/ru/karttiki-navami-krishna-shiubhankari.html
+  - ка̄ртикӣ навамӣ кр̣ш̣н̣а̄ ш́убхан̇карӣ
+- **Пранам-мантра**
+  - https://kirtan.site/ru/prerakam-prachya-pashchatya-shishyanam.html
+  - преракам̇ пра̄чйа-па̄ш́ча̄тйа ш́иш̣йа̄н̣а̄м̇
+- **Шри Гаудийа Даршан Прашасти**
+  - https://kirtan.site/ru/ye-dina-udile-tumi-darshan.html
+  - йе-дина удиле туми
+- **Патрика Прашасти**
+  - https://kirtan.site/ru/ye-dina-udile-tumi-patrika.html
+  - йе-дина удиле туми (Патрика)
+
+### Произведения Шрилы Шридхара Махараджа
+
+- **Саннйаса Шри Нимайа**
+  - https://kirtan.site/ru/mishra-suta-vishvambhara-navadvipa-vasa.html
+  - миш́ра-сута виш́вамбхара навадвӣпа ва̄са
+
+### Другие песни вайшнавских святых
+
+- **Оре мана бхало нахи лаги э сомсара**
+  - https://kirtan.site/ru/ore-mana-bhalo-nahi-lage-e-somsara.html
+  - оре мана бха̄ло на̄хи ла̄ге э сом̇са̄ра

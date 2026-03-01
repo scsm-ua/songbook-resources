@@ -1,5 +1,9 @@
 {
   "name": "songbook-resources",
   "version": "0.1.0",
-  "private": true
+  "private": true,
+  "scripts": {
+    "build": "node scripts/build.js",
+    "postinstall": "npm run build"
+  }
 }
