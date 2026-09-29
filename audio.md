@@ -1,12 +1,12 @@
 ### Intro
 
 - **Vandanā**
-  - https://kirtan.site/en/111vande-ham-shri-guroh-shri-yuta-pada-kamalam.html
+  - https://kirtan.site/en/vande-ham-shri-guroh-shri-yuta-pada-kamalam.html
   - vande ’haṁ śrī-guroḥ śrī-yuta-pada-kamalaṁ
-    - **Srila B.N. Acharya Maharaj111**
-      - https://soundcloud.com/bharatimaharaj/acharya-maharaj-vandana
+    - **Srila B.N. Acharya Maharaj**
+      - https://soundcloud.com/111bharatimaharaj/acharya-maharaj-vandana
     - **Srila B.S. Goswami Maharaj**
-      - https://soundcloud.com/bharatimaharaj/goswami-maharaj-vandana
+      - https://soundcloud.com111/bharatimaharaj/goswami-maharaj-vandana
     - **Srila B.R. Madhusudan Maharaj**
       - https://soundcloud.com/bharatimaharaj/madhusudan-maharaj-vandana
     - **Srila B.S. Govinda Dev-Goswami Maharaj**
