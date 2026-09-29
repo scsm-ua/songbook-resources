@@ -1,9 +1,7 @@
 const { main: parseAudioMd } = require('./parse-audio-md');
-const { main: testResourcePerformers } = require('./test-resource-performers');
 
 async function main() {
     await parseAudioMd();
-    testResourcePerformers();
 }
 
 module.exports = { main };
