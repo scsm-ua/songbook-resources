@@ -43,8 +43,9 @@ Each key is a song id. The value is an object with an `audio` array where each i
 | Script | Description |
 |--------|-------------|
 | `scripts/parse-audio-md.js` | Parses `audio.md` → writes `resources.json`. Exits with `1` on format errors |
-| `scripts/test-resource-performers.js` | Validates all `audio[].title` values exist in `persons.json`. Exits with `1` on unknown performers |
-| `scripts/build.js` | Runs both scripts above in sequence |
+| `scripts/test-resource-performers.js` | Validates all `audio[].title` values exist in `persons.json`. Exits with `1` on unknown performers. Emits GitHub Actions annotations and step summary |
+| `scripts/test-embeds.js` | Verifies every `audio[].embed_url` is reachable (SoundCloud oEmbed). Exits with `1` on any unreachable embed. Emits GitHub Actions annotations and step summary |
+| `scripts/build.js` | Runs `parse-audio-md.js` |
 
 ### Usage
 
@@ -56,5 +57,9 @@ Also runs automatically on `npm install` (via the `postinstall` script).
 
 ## CI
 
-The `.github/workflows/build.yml` workflow runs `npm run build` on every push, failing the check if `audio.md` has format errors or if any performer is missing from `persons.json`.
+The `.github/workflows/build.yml` workflow runs `npm run build` on every push, failing the check if `audio.md` has format errors.
+
+The `.github/workflows/test-performers.yml` workflow runs `npm run test:performers` on every push and on manual dispatch. It fails when any `audio[].title` is missing from `persons.json` and reports unknown performers as GitHub Actions annotations plus a step summary.
+
+The `.github/workflows/test-embeds.yml` workflow runs `npm run test:embeds` on every push, on a weekly schedule, and on manual dispatch. It fails when any embed URL is unreachable and reports broken embeds as GitHub Actions annotations plus a step summary.
 

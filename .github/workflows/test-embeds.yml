@@ -1,0 +1,19 @@
+name: Test embeds
+
+on:
+  push:
+  workflow_dispatch:
+  schedule:
+    # Weekly, Monday at 06:00 UTC
+    - cron: '0 6 * * 1'
+
+jobs:
+  test-embeds:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: lts/*
+      - run: npm run build
+      - run: npm run test:embeds
