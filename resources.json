@@ -230,7 +230,15 @@
     ]
   },
   "devadidevam-ahibhushanam-indukashiam": {},
-  "devam-divya-tanum-suchanda-vadanam-balarka-chelanchitam": {},
+  "devam-divya-tanum-suchanda-vadanam-balarka-chelanchitam": {
+    "image": {
+      "href": "images/en-2026/4.png",
+      "type": "image/png",
+      "width": 454,
+      "height": 525,
+      "length": 650290
+    }
+  },
   "dhana-mora-nityananda-pati-mora": {
     "audio": [
       {
@@ -251,7 +259,15 @@
       }
     ]
   },
-  "divyad-vrindaranya-kalpa-drumadhah": {},
+  "divyad-vrindaranya-kalpa-drumadhah": {
+    "image": {
+      "href": "images/en-2026/10.png",
+      "type": "image/png",
+      "width": 625,
+      "height": 547,
+      "length": 692544
+    }
+  },
   "durlabha-manava-janma-labhiya-samsare": {
     "audio": [
       {
@@ -341,7 +357,15 @@
     ]
   },
   "gaura-pahu-na-bhajiya-mainu": {},
-  "gaura-vrajashritashieshair-vaishnavair-vandya-vigraham": {},
+  "gaura-vrajashritashieshair-vaishnavair-vandya-vigraham": {
+    "image": {
+      "href": "images/en-2026/8.png",
+      "type": "image/png",
+      "width": 454,
+      "height": 543,
+      "length": 360471
+    }
+  },
   "gauranga-bolite-hobe-pulaka-shorira": {
     "audio": [
       {
@@ -450,7 +474,15 @@
       }
     ]
   },
-  "gurvabhishta-supurakam-guru-ganair": {},
+  "gurvabhishta-supurakam-guru-ganair": {
+    "image": {
+      "href": "images/en-2026/3.png",
+      "type": "image/png",
+      "width": 454,
+      "height": 525,
+      "length": 635604
+    }
+  },
   "ha-ha-bhaktivinoda-thakkura-guroh": {},
   "hare-krishna-hare-krishna-krishna-krishna-hare-hare": {
     "audio": [
@@ -846,7 +878,15 @@
       }
     ]
   },
-  "jayatam-suratau-pangor": {},
+  "jayatam-suratau-pangor": {
+    "image": {
+      "href": "images/en-2026/9.png",
+      "type": "image/png",
+      "width": 625,
+      "height": 547,
+      "length": 680552
+    }
+  },
   "je-anilo-prema-dhana-karuna-prachura": {
     "audio": [
       {
@@ -1004,7 +1044,15 @@
       }
     ]
   },
-  "namah-om-vishnupadaya-krishna": {},
+  "namah-om-vishnupadaya-krishna": {
+    "image": {
+      "href": "images/en-2026/12.png",
+      "type": "image/png",
+      "width": 454,
+      "height": 543,
+      "length": 387432
+    }
+  },
   "namamishvaram-sachchidananda-rupam": {
     "audio": [
       {
@@ -1037,7 +1085,15 @@
       }
     ]
   },
-  "namo-gaurakishoraya-bhaktavadhuta-murtaye": {},
+  "namo-gaurakishoraya-bhaktavadhuta-murtaye": {
+    "image": {
+      "href": "images/en-2026/6.png",
+      "type": "image/png",
+      "width": 454,
+      "height": 543,
+      "length": 329109
+    }
+  },
   "namo-namah-tulasi-maharani": {
     "audio": [
       {
@@ -1467,11 +1523,35 @@
       }
     ]
   },
-  "shri-siddhanta-sarasvatiti-vidito": {},
+  "shri-siddhanta-sarasvatiti-vidito": {
+    "image": {
+      "href": "images/en-2026/5.png",
+      "type": "image/png",
+      "width": 454,
+      "height": 543,
+      "length": 374619
+    }
+  },
   "shri-svarupa-raya-rupa-jiva-bhava": {},
-  "shrimach-chaitanya-sarasvata-mathavara-udgita-kirtir": {},
+  "shrimach-chaitanya-sarasvata-mathavara-udgita-kirtir": {
+    "image": {
+      "href": "images/en-2026/13.png",
+      "type": "image/png",
+      "width": 765,
+      "height": 1313,
+      "length": 2193107
+    }
+  },
   "shrimach-chaitanyapadau-chara": {},
-  "shriman-rasa-rasarambhi": {},
+  "shriman-rasa-rasarambhi": {
+    "image": {
+      "href": "images/en-2026/11.png",
+      "type": "image/png",
+      "width": 625,
+      "height": 547,
+      "length": 684561
+    }
+  },
   "shrita-kamala-kuchha-mandala-dhrita": {
     "audio": [
       {
@@ -1575,7 +1655,15 @@
     ]
   },
   "vancha-kalpatarubhyas-cha": {},
-  "vande-bhaktivinodam-shri-gaura-shiakti-svarupakam": {},
+  "vande-bhaktivinodam-shri-gaura-shiakti-svarupakam": {
+    "image": {
+      "href": "images/en-2026/7.png",
+      "type": "image/png",
+      "width": 454,
+      "height": 543,
+      "length": 388248
+    }
+  },
   "vande-ham-shri-guroh-shri-yuta-pada-kamalam": {
     "audio": [
       {
@@ -1653,5 +1741,21 @@
       }
     ]
   },
-  "yoga-pithopari-sthita-ashta-sakhi-subeshtita": {}
+  "yoga-pithopari-sthita-ashta-sakhi-subeshtita": {},
+  "images": [
+    {
+      "href": "images/en-2026/1.png",
+      "type": "image/png",
+      "width": 539,
+      "height": 196,
+      "length": 30692
+    },
+    {
+      "href": "images/en-2026/2.png",
+      "type": "image/png",
+      "width": 529,
+      "height": 513,
+      "length": 229473
+    }
+  ]
 }

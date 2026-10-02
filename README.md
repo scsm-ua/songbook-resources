@@ -38,6 +38,16 @@ Each key is a song id. The value is an object with an `audio` array where each i
 - `title` — performer name (must match an `id` in `persons.json`)
 - `embed_url` — original SoundCloud link
 
+A song id may also have an `image` object, built from `images.md`, where each item contains:
+
+- `href` — path to the image file in `images/`
+- `type` — image MIME type (e.g. `image/png`)
+- `width` — image width in pixels
+- `height` — image height in pixels
+- `length` — file size in bytes
+
+Images in `images/` that are not referenced by any song are listed under the top-level `images` key as an array of the same image objects.
+
 ### Scripts
 
 | Script | Description |
