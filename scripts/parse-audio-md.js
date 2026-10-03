@@ -120,35 +120,28 @@ function parseAudioMarkdown(markdownContent) {
     return { output, errors };
 }
 
-async function main() {
-    const projectRoot = process.cwd();
-    const inputPath = path.join(projectRoot, 'audio.md');
-    const outputPath = path.join(projectRoot, 'resources.json');
-
+async function build() {
+    const inputPath = path.join(process.cwd(), 'audio.md');
     const markdownContent = await fs.readFile(inputPath, 'utf8');
-    const { output: parsedOutput, errors } = parseAudioMarkdown(markdownContent);
+    const { output, errors } = parseAudioMarkdown(markdownContent);
 
     if (errors.length > 0) {
         for (const err of errors) {
             console.error(`[format error] ${err}`);
         }
-        process.exit(1);
+        throw new Error(`audio.md: ${errors.length} format error(s)`);
     }
 
-    const sortedKeys = Object.keys(parsedOutput).sort();
-    const sortedOutput = {};
-    for (const key of sortedKeys) sortedOutput[key] = parsedOutput[key];
-
-    await fs.writeFile(outputPath, `${JSON.stringify(sortedOutput, null, 2)}\n`, 'utf8');
-
-    console.log(`Created ${outputPath}`);
+    return output;
 }
 
-module.exports = { main };
+module.exports = { build, parseAudioMarkdown };
 
 if (require.main === module) {
-    main().catch((error) => {
-        console.error(error.message);
-        process.exitCode = 1;
-    });
+    build()
+        .then((output) => console.log(JSON.stringify(output, null, 2)))
+        .catch((error) => {
+            console.error(error.message);
+            process.exitCode = 1;
+        });
 }
