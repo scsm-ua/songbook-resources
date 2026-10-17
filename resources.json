@@ -232,7 +232,7 @@
   "devadidevam-ahibhushanam-indukashiam": {},
   "devam-divya-tanum-suchanda-vadanam-balarka-chelanchitam": {
     "image": {
-      "href": "images/en-2026/4.png",
+      "href": "images/en/4.png",
       "type": "image/png",
       "width": 454,
       "height": 525,
@@ -261,7 +261,7 @@
   },
   "divyad-vrindaranya-kalpa-drumadhah": {
     "image": {
-      "href": "images/en-2026/10.png",
+      "href": "images/en/10.png",
       "type": "image/png",
       "width": 625,
       "height": 547,
@@ -359,7 +359,7 @@
   "gaura-pahu-na-bhajiya-mainu": {},
   "gaura-vrajashritashieshair-vaishnavair-vandya-vigraham": {
     "image": {
-      "href": "images/en-2026/8.png",
+      "href": "images/en/8.png",
       "type": "image/png",
       "width": 454,
       "height": 543,
@@ -476,7 +476,7 @@
   },
   "gurvabhishta-supurakam-guru-ganair": {
     "image": {
-      "href": "images/en-2026/3.png",
+      "href": "images/en/3.png",
       "type": "image/png",
       "width": 454,
       "height": 525,
@@ -880,7 +880,7 @@
   },
   "jayatam-suratau-pangor": {
     "image": {
-      "href": "images/en-2026/9.png",
+      "href": "images/en/9.png",
       "type": "image/png",
       "width": 625,
       "height": 547,
@@ -1046,7 +1046,7 @@
   },
   "namah-om-vishnupadaya-krishna": {
     "image": {
-      "href": "images/en-2026/12.png",
+      "href": "images/en/12.png",
       "type": "image/png",
       "width": 454,
       "height": 543,
@@ -1087,7 +1087,7 @@
   },
   "namo-gaurakishoraya-bhaktavadhuta-murtaye": {
     "image": {
-      "href": "images/en-2026/6.png",
+      "href": "images/en/6.png",
       "type": "image/png",
       "width": 454,
       "height": 543,
@@ -1525,7 +1525,7 @@
   },
   "shri-siddhanta-sarasvatiti-vidito": {
     "image": {
-      "href": "images/en-2026/5.png",
+      "href": "images/en/5.png",
       "type": "image/png",
       "width": 454,
       "height": 543,
@@ -1535,7 +1535,7 @@
   "shri-svarupa-raya-rupa-jiva-bhava": {},
   "shrimach-chaitanya-sarasvata-mathavara-udgita-kirtir": {
     "image": {
-      "href": "images/en-2026/13.png",
+      "href": "images/en/13.png",
       "type": "image/png",
       "width": 765,
       "height": 1313,
@@ -1545,7 +1545,7 @@
   "shrimach-chaitanyapadau-chara": {},
   "shriman-rasa-rasarambhi": {
     "image": {
-      "href": "images/en-2026/11.png",
+      "href": "images/en/11.png",
       "type": "image/png",
       "width": 625,
       "height": 547,
@@ -1657,7 +1657,7 @@
   "vancha-kalpatarubhyas-cha": {},
   "vande-bhaktivinodam-shri-gaura-shiakti-svarupakam": {
     "image": {
-      "href": "images/en-2026/7.png",
+      "href": "images/en/7.png",
       "type": "image/png",
       "width": 454,
       "height": 543,
@@ -1744,14 +1744,14 @@
   "yoga-pithopari-sthita-ashta-sakhi-subeshtita": {},
   "images": [
     {
-      "href": "images/en-2026/1.png",
+      "href": "images/en/1.png",
       "type": "image/png",
       "width": 281,
       "height": 192,
       "length": 35061
     },
     {
-      "href": "images/en-2026/2.png",
+      "href": "images/en/2.png",
       "type": "image/png",
       "width": 529,
       "height": 513,
