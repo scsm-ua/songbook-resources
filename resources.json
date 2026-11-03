@@ -232,11 +232,11 @@
   "devadidevam-ahibhushanam-indukashiam": {},
   "devam-divya-tanum-suchanda-vadanam-balarka-chelanchitam": {
     "image": {
-      "href": "images/en/4.png",
-      "type": "image/png",
+      "href": "images/en/4.jpg",
+      "type": "image/jpeg",
       "width": 454,
       "height": 525,
-      "length": 650290
+      "length": 59774
     }
   },
   "dhana-mora-nityananda-pati-mora": {
@@ -261,11 +261,11 @@
   },
   "divyad-vrindaranya-kalpa-drumadhah": {
     "image": {
-      "href": "images/en/10.png",
-      "type": "image/png",
+      "href": "images/en/10.jpg",
+      "type": "image/jpeg",
       "width": 625,
       "height": 547,
-      "length": 692544
+      "length": 107367
     }
   },
   "durlabha-manava-janma-labhiya-samsare": {
@@ -359,11 +359,11 @@
   "gaura-pahu-na-bhajiya-mainu": {},
   "gaura-vrajashritashieshair-vaishnavair-vandya-vigraham": {
     "image": {
-      "href": "images/en/8.png",
-      "type": "image/png",
+      "href": "images/en/8.jpg",
+      "type": "image/jpeg",
       "width": 454,
       "height": 543,
-      "length": 360471
+      "length": 44161
     }
   },
   "gauranga-bolite-hobe-pulaka-shorira": {
@@ -476,11 +476,11 @@
   },
   "gurvabhishta-supurakam-guru-ganair": {
     "image": {
-      "href": "images/en/3.png",
-      "type": "image/png",
+      "href": "images/en/3.jpg",
+      "type": "image/jpeg",
       "width": 454,
       "height": 525,
-      "length": 635604
+      "length": 57925
     }
   },
   "ha-ha-bhaktivinoda-thakkura-guroh": {},
@@ -880,11 +880,11 @@
   },
   "jayatam-suratau-pangor": {
     "image": {
-      "href": "images/en/9.png",
-      "type": "image/png",
+      "href": "images/en/9.jpg",
+      "type": "image/jpeg",
       "width": 625,
       "height": 547,
-      "length": 680552
+      "length": 87123
     }
   },
   "je-anilo-prema-dhana-karuna-prachura": {
@@ -1046,11 +1046,11 @@
   },
   "namah-om-vishnupadaya-krishna": {
     "image": {
-      "href": "images/en/12.png",
-      "type": "image/png",
+      "href": "images/en/12.jpg",
+      "type": "image/jpeg",
       "width": 454,
       "height": 543,
-      "length": 387432
+      "length": 42177
     }
   },
   "namamishvaram-sachchidananda-rupam": {
@@ -1087,11 +1087,11 @@
   },
   "namo-gaurakishoraya-bhaktavadhuta-murtaye": {
     "image": {
-      "href": "images/en/6.png",
-      "type": "image/png",
+      "href": "images/en/6.jpg",
+      "type": "image/jpeg",
       "width": 454,
       "height": 543,
-      "length": 329109
+      "length": 36466
     }
   },
   "namo-namah-tulasi-maharani": {
@@ -1525,31 +1525,31 @@
   },
   "shri-siddhanta-sarasvatiti-vidito": {
     "image": {
-      "href": "images/en/5.png",
-      "type": "image/png",
+      "href": "images/en/5.jpg",
+      "type": "image/jpeg",
       "width": 454,
       "height": 543,
-      "length": 374619
+      "length": 36605
     }
   },
   "shri-svarupa-raya-rupa-jiva-bhava": {},
   "shrimach-chaitanya-sarasvata-mathavara-udgita-kirtir": {
     "image": {
-      "href": "images/en/13.png",
-      "type": "image/png",
+      "href": "images/en/13.jpg",
+      "type": "image/jpeg",
       "width": 765,
       "height": 1313,
-      "length": 2193107
+      "length": 165151
     }
   },
   "shrimach-chaitanyapadau-chara": {},
   "shriman-rasa-rasarambhi": {
     "image": {
-      "href": "images/en/11.png",
-      "type": "image/png",
+      "href": "images/en/11.jpg",
+      "type": "image/jpeg",
       "width": 625,
       "height": 547,
-      "length": 684561
+      "length": 84832
     }
   },
   "shrita-kamala-kuchha-mandala-dhrita": {
@@ -1657,11 +1657,11 @@
   "vancha-kalpatarubhyas-cha": {},
   "vande-bhaktivinodam-shri-gaura-shiakti-svarupakam": {
     "image": {
-      "href": "images/en/7.png",
-      "type": "image/png",
+      "href": "images/en/7.jpg",
+      "type": "image/jpeg",
       "width": 454,
       "height": 543,
-      "length": 388248
+      "length": 40337
     }
   },
   "vande-ham-shri-guroh-shri-yuta-pada-kamalam": {
@@ -1744,18 +1744,18 @@
   "yoga-pithopari-sthita-ashta-sakhi-subeshtita": {},
   "images": [
     {
-      "href": "images/en/1.png",
-      "type": "image/png",
+      "href": "images/en/1.jpg",
+      "type": "image/jpeg",
       "width": 281,
       "height": 192,
-      "length": 35061
+      "length": 16901
     },
     {
-      "href": "images/en/2.png",
-      "type": "image/png",
+      "href": "images/en/2.jpg",
+      "type": "image/jpeg",
       "width": 529,
       "height": 513,
-      "length": 229473
+      "length": 51056
     }
   ]
 }
