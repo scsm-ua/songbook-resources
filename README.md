@@ -53,6 +53,7 @@ Images in `images/` that are not referenced by any song are listed under the top
 | Script | Description |
 |--------|-------------|
 | `scripts/parse-audio-md.js` | Parses `audio.md` → writes `resources.json`. Exits with `1` on format errors |
+| `scripts/add-person-slugs.js` | Adds missing slugs derived from person ids to `persons.json`, preserving existing slugs |
 | `scripts/test-resource-performers.js` | Validates all `audio[].title` values exist in `persons.json`. Exits with `1` on unknown performers. Emits GitHub Actions annotations and step summary |
 | `scripts/test-embeds.js` | Verifies every `audio[].embed_url` is reachable (SoundCloud oEmbed). Exits with `1` on any unreachable embed. Emits GitHub Actions annotations and step summary |
 | `scripts/build.js` | Runs `parse-audio-md.js` |
@@ -64,6 +65,14 @@ npm run build
 ```
 
 Also runs automatically on `npm install` (via the `postinstall` script).
+
+To add missing person slugs:
+
+```sh
+node scripts/add-person-slugs.js
+```
+
+This updates `persons.json` in place, generating missing slugs from each `id` by removing diacritics, lowercasing, and replacing non-alphanumeric sequences with hyphens. Leading and trailing hyphens are removed. Existing slugs are not overwritten, and `slug` is placed immediately after `id` in each object.
 
 ## CI
 
