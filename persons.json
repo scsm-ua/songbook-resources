@@ -1,6 +1,7 @@
 [
   {
     "id": "Srila B.N. Acharya Maharaj",
+    "slug": "srila-b-n-acharya-maharaj",
     "i18n": {
       "en": "Srila B.N. Acharya Maharaj",
       "ru": "Шрила Б.Н. Ачарья Махарадж",
@@ -9,6 +10,7 @@
   },
   {
     "id": "Srila B.R. Madhusudan Maharaj",
+    "slug": "srila-b-r-madhusudan-maharaj",
     "i18n": {
       "en": "Srila B.R. Madhusudan Maharaj",
       "ru": "Шрила Б.Р. Мадхусудан Махарадж",
@@ -17,6 +19,7 @@
   },
   {
     "id": "Caracas temple",
+    "slug": "caracas-temple",
     "i18n": {
       "en": "Caracas temple",
       "ru": "Храм г.Каракас",
@@ -25,6 +28,7 @@
   },
   {
     "id": "Srila B.S. Govinda Dev-Goswami Maharaj",
+    "slug": "srila-b-s-govinda-dev-goswami-maharaj",
     "i18n": {
       "en": "Srila B.S. Govinda Dev-Goswami Maharaj",
       "ru": "Шрила Б.С. Говинда Дев-Госвами Махарадж",
@@ -33,6 +37,7 @@
   },
   {
     "id": "Nabadwip temple",
+    "slug": "nabadwip-temple",
     "i18n": {
       "en": "Nabadwip temple",
       "ru": "Навадвипский храм",
@@ -41,6 +46,7 @@
   },
   {
     "id": "Srila B.B. Avadhut Maharaj",
+    "slug": "srila-b-b-avadhut-maharaj",
     "i18n": {
       "en": "Srila B.B. Avadhut Maharaj",
       "ru": "Шрила Б.Б. Авадхут Махарадж",
@@ -49,6 +55,7 @@
   },
   {
     "id": "Srila B.R. Sridhar Dev-Goswami Maharaj",
+    "slug": "srila-b-r-sridhar-dev-goswami-maharaj",
     "i18n": {
       "en": "Srila B.R. Sridhar Dev-Goswami Maharaj",
       "ru": "Шрила Б.Р. Шридхар Дев-Госвами Махарадж",
@@ -57,6 +64,7 @@
   },
   {
     "id": "Srila B.S. Goswami Maharaj",
+    "slug": "srila-b-s-goswami-maharaj",
     "i18n": {
       "en": "Srila B.S. Goswami Maharaj",
       "ru": "Шрила Б.С. Госвами Махарадж",
@@ -65,6 +73,7 @@
   },
   {
     "id": "Sudarshan Prabhu",
+    "slug": "sudarshan-prabhu",
     "i18n": {
       "en": "Sudarshan Prabhu",
       "ru": "Сударшан Прабху",
@@ -73,6 +82,7 @@
   },
   {
     "id": "Bhudev Prabhu",
+    "slug": "bhudev-prabhu",
     "i18n": {
       "en": "Bhudev Prabhu",
       "ru": "Бхудев Прабху",
@@ -81,6 +91,7 @@
   },
   {
     "id": "Bhakti Lalita Devi",
+    "slug": "bhakti-lalita-devi",
     "i18n": {
       "en": "Bhakti Lalita Devi",
       "ru": "Бхакти Лалита Деви",
@@ -89,6 +100,7 @@
   },
   {
     "id": "Sadhu Priya Prabhu",
+    "slug": "sadhu-priya-prabhu",
     "i18n": {
       "en": "Sadhu Priya Prabhu",
       "ru": "Садху Прия Прабху",
@@ -97,6 +109,7 @@
   },
   {
     "id": "Kesavananda Prabhu",
+    "slug": "kesavananda-prabhu",
     "i18n": {
       "en": "Kesavananda Prabhu",
       "ru": "Кешавананда Прабху",
@@ -105,6 +118,7 @@
   },
   {
     "id": "Nitai Prabhu",
+    "slug": "nitai-prabhu",
     "i18n": {
       "en": "Nitai Prabhu",
       "ru": "Нитай Прабху",
@@ -113,6 +127,7 @@
   },
   {
     "id": "Srila B.K. Ashram Maharaj",
+    "slug": "srila-b-k-ashram-maharaj",
     "i18n": {
       "en": "Srila B.K. Ashram Maharaj",
       "ru": "Шрила Б.К. Ашрам Махарадж",
@@ -121,6 +136,7 @@
   },
   {
     "id": "Srila B.P. Janardan Maharaj",
+    "slug": "srila-b-p-janardan-maharaj",
     "i18n": {
       "en": "Srila B.P. Janardan Maharaj",
       "ru": "Шрила Б.П. Джанардан Махарадж",
