@@ -57,6 +57,7 @@ Images in `images/` that are not referenced by any song are listed under the top
 | `scripts/test-resource-performers.js` | Validates all `audio[].title` values exist in `persons.json`. Exits with `1` on unknown performers. Emits GitHub Actions annotations and step summary |
 | `scripts/test-embeds.js` | Verifies every `audio[].embed_url` is reachable (SoundCloud oEmbed). Exits with `1` on any unreachable embed. Emits GitHub Actions annotations and step summary |
 | `scripts/build.js` | Runs `parse-audio-md.js` |
+| `scripts/check-all-songs-list.js` | Compares `scripts/fixtures/all-songs.json` with `resources.json` and prints songs missing on either side as ready-to-paste `audio.md` items |
 
 ### Usage
 
@@ -73,6 +74,22 @@ node scripts/add-person-slugs.js
 ```
 
 This updates `persons.json` in place, generating missing slugs from each `id` by removing diacritics, lowercasing, and replacing non-alphanumeric sequences with hyphens. Leading and trailing hyphens are removed. Existing slugs are not overwritten, and `slug` is placed immediately after `id` in each object.
+
+### Adding missing tracks
+
+`scripts/fixtures/all-songs.json` is the list of all songs on kirtan.site. It is generated in the `kirtan-next` project with `npm run generate-all-songs-json`; copy the result to `scripts/fixtures/all-songs.json`.
+
+1. Run the comparator:
+
+   ```sh
+   node scripts/check-all-songs-list.js
+   ```
+
+2. Copy the items from the "In all-songs.json but not in resources.json" section into the appropriate section of `audio.md`. Each item is already in the `audio.md` format (title, kirtan.site link, first line).
+3. Add the performer entries (`**{audio.title}**` + `{embed_url}`) under each copied song.
+4. Run `npm run build` to regenerate `resources.json`, then `npm test`.
+
+The second section of the output lists song ids present in `resources.json` but absent from `all-songs.json` (e.g. renamed or removed songs).
 
 ## CI
 

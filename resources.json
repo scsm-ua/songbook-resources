@@ -17,21 +17,30 @@
       {
         "title": "Srila B.K. Ashram Maharaj",
         "embed_url": "https://soundcloud.com/scsmathcolombia/11-akrodha-paramananda"
+      },
+      {
+        "title": "Manasa Krishna Prabhu",
+        "embed_url": "https://soundcloud.com/huron/akrodha-paramananda"
       }
     ]
   },
   "amara-jivana-sada-pape-rata": {
     "audio": [
       {
-        "title": "Bhudev Prabhu",
+        "title": "Kamal Krishna Prabhu",
         "embed_url": "https://soundcloud.com/jayasri-sound/05-amara-jivana"
       },
       {
         "title": "Srila B.N. Acharya Maharaj",
         "embed_url": "https://soundcloud.com/kostya-netrebenko/017-amarajivana-1"
+      },
+      {
+        "title": "Manasa Krishna Prabhu",
+        "embed_url": "https://soundcloud.com/huron/amara-jivana"
       }
     ]
   },
+  "amara-samana-hina-nahi-e-samsare": {},
   "ami-guru-dasa-nahi-anya": {},
   "anadi-karama-phole": {
     "audio": [
@@ -42,10 +51,27 @@
       {
         "title": "Bhakti Lalita Devi",
         "embed_url": "https://soundcloud.com/bhakti-lalita-devi/anadi-karama-phole"
+      },
+      {
+        "title": "Manasa Krishna Prabhu",
+        "embed_url": "https://soundcloud.com/huron/anadi-karama-phole"
+      },
+      {
+        "title": "Sudarshan Prabhu",
+        "embed_url": "https://soundcloud.com/jayasri-sound/song-5-anadi-karama-phole"
       }
     ]
   },
-  "anya-abhilasha-chadi-jniana-karma-parihari": {},
+  "anga-upanga-astra-parshada-sange": {},
+  "anukulya-sankalpera-chhaya-anga-sara": {},
+  "anya-abhilasha-chadi-jniana-karma-parihari": {
+    "audio": [
+      {
+        "title": "Manasa Krishna Prabhu",
+        "embed_url": "https://soundcloud.com/huron/anya-abhilasa"
+      }
+    ]
+  },
   "aparadha-phole-mama": {
     "audio": [
       {
@@ -55,22 +81,59 @@
       {
         "title": "Srila B.N. Acharya Maharaj",
         "embed_url": "https://soundcloud.com/kostya-netrebenko/105-srisrisiksastakam6-5"
+      },
+      {
+        "title": "Manasa Krishna Prabhu",
+        "embed_url": "https://soundcloud.com/huron/aparadha-phole-mama"
+      },
+      {
+        "title": "Sudarshan Prabhu",
+        "embed_url": "https://soundcloud.com/jayasri-sound/song-6-aparadha-phole-mama"
       }
     ]
   },
   "ara-keno-maya-jale": {},
   "are-bhai-nitai-amar-dayara-avadhi": {},
-  "aruna-basane-sonara-suraja": {},
+  "aruna-basane-sonara-suraja": {
+    "audio": [
+      {
+        "title": "Manasa Krishna Prabhu",
+        "embed_url": "https://soundcloud.com/huron/aruna-vasane"
+      }
+    ]
+  },
+  "asat-lakshana-hina-gaya-krishna-nama": {},
+  "asat-sanga-tyaji-sadhu-sanga-kara-bhai": {},
   "atha-govardhane-ramye-surabhi": {},
-  "atma-nivedana-tuya-pade-kori": {},
+  "atma-nivedana-tuya-pade-kori": {
+    "audio": [
+      {
+        "title": "Manasa Krishna Prabhu",
+        "embed_url": "https://soundcloud.com/huron/atma-nivedana"
+      },
+      {
+        "title": "Kamal Krishna Prabhu",
+        "embed_url": "https://soundcloud.com/jayasri-sound/16-atma-nivedana"
+      }
+    ]
+  },
   "atma-samarpane-gela-abhimana": {
     "audio": [
       {
         "title": "Bhakti Lalita Devi",
         "embed_url": "https://soundcloud.com/bhakti-lalita-devi/atma-samarpane-bhakti-lalita-devi"
+      },
+      {
+        "title": "Manasa Krishna Prabhu",
+        "embed_url": "https://soundcloud.com/huron/atma-samarpane"
+      },
+      {
+        "title": "Kamal Krishna Prabhu",
+        "embed_url": "https://soundcloud.com/jayasri-sound/23-atmasamarpane-gela-abhimana"
       }
     ]
   },
+  "atyahara-prayasa-prajalpa-jana-sanga": {},
   "avatara-sara-gora-avatara": {
     "audio": [
       {
@@ -84,9 +147,15 @@
       {
         "title": "Caracas temple",
         "embed_url": "https://soundcloud.com/bharatimaharaj/shchsm-karakas-avatara-sara"
+      },
+      {
+        "title": "Manasa Krishna Prabhu",
+        "embed_url": "https://soundcloud.com/huron/avatara-sara"
       }
     ]
   },
+  "avidya-pittera-doshe-dushta-rasanaya": {},
+  "bandhu-sange-yadi-tava-ranga-parihasa": {},
   "bhagyadhishia-tvadiyo-vimala-sukhamayah": {
     "audio": [
       {
@@ -95,7 +164,16 @@
       }
     ]
   },
-  "bhai-re-shorira-avidya-jal-jodendriya-tahe-kal": {},
+  "bhai-re-eka-dina-nilachale-prasada-sevana-kale": {},
+  "bhai-re-shiachira-angane-kabhu": {},
+  "bhai-re-shorira-avidya-jal-jodendriya-tahe-kal": {
+    "audio": [
+      {
+        "title": "Manasa Krishna Prabhu",
+        "embed_url": "https://soundcloud.com/huron/bhai-re-sorira-avidya-jol"
+      }
+    ]
+  },
   "bhaja-bhakata-vatsala-shri-gaurahari": {
     "audio": [
       {
@@ -109,6 +187,10 @@
       {
         "title": "Caracas temple",
         "embed_url": "https://soundcloud.com/bharatimaharaj/shchsm-karakas-bxadzha-bxakata"
+      },
+      {
+        "title": "Manasa Krishna Prabhu",
+        "embed_url": "https://soundcloud.com/huron/bhaja-bhakata-vatsala"
       }
     ]
   },
@@ -129,6 +211,10 @@
       {
         "title": "Bhakti Lalita Devi",
         "embed_url": "https://soundcloud.com/bhakti-lalita-devi/bhakti-lalita-devi-bhajan-giti-bhaja-re-bhaja-re-amar"
+      },
+      {
+        "title": "Manasa Krishna Prabhu",
+        "embed_url": "https://soundcloud.com/huron/bhajare-bhajare-amar"
       }
     ]
   },
@@ -153,6 +239,10 @@
       {
         "title": "Bhakti Lalita Devi",
         "embed_url": "https://soundcloud.com/bhakti-lalita-devi/bhakti-lalita-devi-bhajahu-re-mana"
+      },
+      {
+        "title": "Manasa Krishna Prabhu",
+        "embed_url": "https://soundcloud.com/huron/bhajahu-re-mana"
       }
     ]
   },
@@ -161,6 +251,10 @@
       {
         "title": "Srila B.S. Govinda Dev-Goswami Maharaj",
         "embed_url": "https://soundcloud.com/bharatimaharaj/govinda-maharaj-sri-dayita"
+      },
+      {
+        "title": "Manasa Krishna Prabhu",
+        "embed_url": "https://soundcloud.com/huron/bhaya-bhanjana"
       }
     ]
   },
@@ -169,14 +263,14 @@
       {
         "title": "Srila B.S. Govinda Dev-Goswami Maharaj",
         "embed_url": "https://soundcloud.com/kostya-netrebenko/18-bhuliya-tomare-samsara-asiya-8"
-      }
-    ]
-  },
-  "bimala-hemajini-tanu-anupama-re": {
-    "audio": [
+      },
       {
-        "title": "Srila B.S. Govinda Dev-Goswami Maharaj",
-        "embed_url": "https://soundcloud.com/kostya-netrebenko/26-bimala-hema-jini-2"
+        "title": "Manasa Krishna Prabhu",
+        "embed_url": "https://soundcloud.com/huron/bhuliya-tomare"
+      },
+      {
+        "title": "Kamal Krishna Prabhu",
+        "embed_url": "https://soundcloud.com/jayasri-sound/02-bhuliya-tomare-samsare"
       }
     ]
   },
@@ -189,6 +283,14 @@
       {
         "title": "Srila B.N. Acharya Maharaj",
         "embed_url": "https://soundcloud.com/kostya-netrebenko/107-srisrisiksastakam8-8"
+      },
+      {
+        "title": "Manasa Krishna Prabhu",
+        "embed_url": "https://soundcloud.com/huron/bondhu-gon"
+      },
+      {
+        "title": "Sudarshan Prabhu",
+        "embed_url": "https://soundcloud.com/jayasri-sound/song-8-bondhu-gon"
       }
     ]
   },
@@ -197,6 +299,10 @@
       {
         "title": "Srila B.N. Acharya Maharaj",
         "embed_url": "https://soundcloud.com/madhupuri/4-chauda-sata-sat-acharya"
+      },
+      {
+        "title": "Manasa Krishna Prabhu",
+        "embed_url": "https://soundcloud.com/huron/chaudda-sata-sata-sake"
       }
     ]
   },
@@ -212,12 +318,17 @@
       }
     ]
   },
+  "chid-anveshi-jniani-jada-karmi-ha-ite-shreshtha": {},
   "chit-kana-jiva-krishna": {},
   "dayal-nitai-chaitanya-bole-nach-re": {
     "audio": [
       {
         "title": "Caracas temple",
         "embed_url": "https://soundcloud.com/bharatimaharaj/shchsm-karakas-doi-al-nitai"
+      },
+      {
+        "title": "Manasa Krishna Prabhu",
+        "embed_url": "https://soundcloud.com/huron/doyal-nitai-chaitanya-bole"
       }
     ]
   },
@@ -226,6 +337,10 @@
       {
         "title": "Srila B.R. Madhusudan Maharaj",
         "embed_url": "https://soundcloud.com/bharatimaharaj/madhusudan-maharaj-prema-dhama"
+      },
+      {
+        "title": "Manasa Krishna Prabhu",
+        "embed_url": "https://soundcloud.com/huron/prema-dhama"
       }
     ]
   },
@@ -248,6 +363,10 @@
       {
         "title": "Srila B.R. Madhusudan Maharaj",
         "embed_url": "https://soundcloud.com/bharatimaharaj/madhusudan-maharaj-dhana-mora"
+      },
+      {
+        "title": "Manasa Krishna Prabhu",
+        "embed_url": "https://soundcloud.com/huron/dhana-mora-nityananda"
       }
     ]
   },
@@ -256,6 +375,10 @@
       {
         "title": "Srila B.R. Madhusudan Maharaj",
         "embed_url": "https://soundcloud.com/bharatimaharaj/madhusudan-maharaj-prema-dhama"
+      },
+      {
+        "title": "Manasa Krishna Prabhu",
+        "embed_url": "https://soundcloud.com/huron/prema-dhama"
       }
     ]
   },
@@ -277,11 +400,29 @@
       {
         "title": "Caracas temple",
         "embed_url": "https://soundcloud.com/bharatimaharaj/shchsm-karakas-durlava-manava"
+      },
+      {
+        "title": "Manasa Krishna Prabhu",
+        "embed_url": "https://soundcloud.com/huron/durlabha-manava-janma"
       }
     ]
   },
-  "dushta-mana-tumi-kisera-vaishnava": {},
-  "e-ghora-samsare-podiya-manava": {},
+  "dushta-mana-tumi-kisera-vaishnava": {
+    "audio": [
+      {
+        "title": "Manasa Krishna Prabhu",
+        "embed_url": "https://soundcloud.com/huron/dusta-mana-tumi-kisera"
+      }
+    ]
+  },
+  "e-ghora-samsare-podiya-manava": {
+    "audio": [
+      {
+        "title": "Manasa Krishna Prabhu",
+        "embed_url": "https://soundcloud.com/huron/e-ghora-samsare"
+      }
+    ]
+  },
   "ei-vara-karuna-kara-vaishnava-gosani": {
     "audio": [
       {
@@ -291,6 +432,10 @@
       {
         "title": "Srila B.R. Madhusudan Maharaj",
         "embed_url": "https://soundcloud.com/bharatimaharaj/madhusudan-maharaj-vaishnava"
+      },
+      {
+        "title": "Manasa Krishna Prabhu",
+        "embed_url": "https://soundcloud.com/huron/ei-baro-koruna-koro_1"
       }
     ]
   },
@@ -332,10 +477,25 @@
       {
         "title": "Srila B.B. Avadhut Maharaj",
         "embed_url": "https://soundcloud.com/bharatimaharaj/avadxut-maxaradzh-emona-1"
+      },
+      {
+        "title": "Manasa Krishna Prabhu",
+        "embed_url": "https://soundcloud.com/huron/emona-durmati"
+      },
+      {
+        "title": "Kamal Krishna Prabhu",
+        "embed_url": "https://soundcloud.com/jayasri-sound/08-emana-durmati"
       }
     ]
   },
-  "emona-gauranga-bine-nahi-ara": {},
+  "emona-gauranga-bine-nahi-ara": {
+    "audio": [
+      {
+        "title": "Manasa Krishna Prabhu",
+        "embed_url": "https://soundcloud.com/huron/emona-gauranga-bine-nahi-ara"
+      }
+    ]
+  },
   "gaite-gaite-nama-ki-doshia-hoilo": {
     "audio": [
       {
@@ -345,6 +505,14 @@
       {
         "title": "Srila B.N. Acharya Maharaj",
         "embed_url": "https://soundcloud.com/kostya-netrebenko/106-srisrisiksastakam7-2"
+      },
+      {
+        "title": "Manasa Krishna Prabhu",
+        "embed_url": "https://soundcloud.com/huron/gaite-gaite-nama"
+      },
+      {
+        "title": "Sudarshan Prabhu",
+        "embed_url": "https://soundcloud.com/jayasri-sound/song-7-gaite-gaite-nama"
       }
     ]
   },
@@ -353,10 +521,21 @@
       {
         "title": "Bhakti Lalita Devi",
         "embed_url": "https://soundcloud.com/bhakti-lalita-devi/gaite-govinda-nam"
+      },
+      {
+        "title": "Manasa Krishna Prabhu",
+        "embed_url": "https://soundcloud.com/huron/gaite-govinda-nam"
       }
     ]
   },
-  "gaura-pahu-na-bhajiya-mainu": {},
+  "gaura-pahu-na-bhajiya-mainu": {
+    "audio": [
+      {
+        "title": "Manasa Krishna Prabhu",
+        "embed_url": "https://soundcloud.com/huron/gora-panhu-na-bhajiya-mainu"
+      }
+    ]
+  },
   "gaura-vrajashritashieshair-vaishnavair-vandya-vigraham": {
     "image": {
       "href": "images/en/8.jpg",
@@ -371,6 +550,10 @@
       {
         "title": "Caracas temple",
         "embed_url": "https://soundcloud.com/bharatimaharaj/shchsm-karakas-gauranga-bolite"
+      },
+      {
+        "title": "Manasa Krishna Prabhu",
+        "embed_url": "https://soundcloud.com/huron/gauranga-bolite-hobe"
       }
     ]
   },
@@ -391,6 +574,10 @@
       {
         "title": "Srila B.N. Acharya Maharaj",
         "embed_url": "https://soundcloud.com/acharyamaharaj/5-savarana-sri-gaura-mahima"
+      },
+      {
+        "title": "Manasa Krishna Prabhu",
+        "embed_url": "https://soundcloud.com/huron/gaurangera-duti-pada"
       }
     ]
   },
@@ -419,12 +606,30 @@
       {
         "title": "Srila B.B. Avadhut Maharaj",
         "embed_url": "https://soundcloud.com/bharatimaharaj/avadxut-maxaradzh-gaj-goura"
+      },
+      {
+        "title": "Manasa Krishna Prabhu",
+        "embed_url": "https://soundcloud.com/huron/gay-gaura-madhura-sware"
       }
     ]
   },
   "gayatri-muralishta-kirtana-dhanam": {},
-  "gopinath-amara-upaya-nai": {},
-  "gopinath-ghuchao-samsara-jvala": {},
+  "gopinath-amara-upaya-nai": {
+    "audio": [
+      {
+        "title": "Manasa Krishna Prabhu",
+        "embed_url": "https://soundcloud.com/huron/gopinath-amara-upaya-nai"
+      }
+    ]
+  },
+  "gopinath-ghuchao-samsara-jvala": {
+    "audio": [
+      {
+        "title": "Manasa Krishna Prabhu",
+        "embed_url": "https://soundcloud.com/huron/gopinath-ghuchao-samsara-jvala"
+      }
+    ]
+  },
   "gopinath-mama-nivedana-shiuno": {
     "audio": [
       {
@@ -438,14 +643,41 @@
       {
         "title": "Srila B.R. Madhusudan Maharaj",
         "embed_url": "https://soundcloud.com/bharatimaharaj/madhusudan-maharaj-gopinath"
+      },
+      {
+        "title": "Manasa Krishna Prabhu",
+        "embed_url": "https://soundcloud.com/huron/gopinath-mama-nivedana-suno"
       }
     ]
   },
   "goswaminam-sudhirakhyam": {},
   "guror-guro-me-paramo-gurus-tvam": {},
+  "guru-kripa-bale-labhi-sambandha-vijniana": {},
   "guru-rupa-virajita-nanda-sutam": {},
-  "gurudeva-bada-kripa-kari": {},
-  "gurudeva-kabe-mora-sei-dina": {},
+  "gurudeva-bada-kripa-kari": {
+    "audio": [
+      {
+        "title": "Kamal Krishna Prabhu",
+        "embed_url": "https://soundcloud.com/jayasri-sound/42-gurudeva-bara-krpa-kari"
+      }
+    ]
+  },
+  "gurudeva-kabe-mora-sei-dina": {
+    "audio": [
+      {
+        "title": "Kamal Krishna Prabhu",
+        "embed_url": "https://soundcloud.com/jayasri-sound/44-gurudeva-kabe-mora-sei-dina"
+      }
+    ]
+  },
+  "gurudeva-kabe-tava-karuna-prakashie": {
+    "audio": [
+      {
+        "title": "Kamal Krishna Prabhu",
+        "embed_url": "https://soundcloud.com/jayasri-sound/45-gurudeva-kabe-tava-karuna"
+      }
+    ]
+  },
   "gurudeva-kripa-bindu-diya-kara-ei-dase": {
     "audio": [
       {
@@ -471,6 +703,14 @@
       {
         "title": "Srila B.B. Avadhut Maharaj",
         "embed_url": "https://soundcloud.com/bharatimaharaj/avadxut-maxaradzh-utrennee-2"
+      },
+      {
+        "title": "Manasa Krishna Prabhu",
+        "embed_url": "https://soundcloud.com/huron/gurudev-kripa-bindu-diya"
+      },
+      {
+        "title": "Kamal Krishna Prabhu",
+        "embed_url": "https://soundcloud.com/jayasri-sound/43-gurudeva-krpa-bindu-diya"
       }
     ]
   },
@@ -569,6 +809,42 @@
       {
         "title": "Srila B.N. Acharya Maharaj",
         "embed_url": "https://soundcloud.com/temploscsmathsp/mahamantra-srila-acharya-maharaj"
+      },
+      {
+        "title": "Manasa Krishna Prabhu",
+        "embed_url": "https://soundcloud.com/huron/mahamantra-kirttan"
+      },
+      {
+        "title": "Manasa Krishna Prabhu",
+        "embed_url": "https://soundcloud.com/huron/maha-mantra-bhoga"
+      },
+      {
+        "title": "Manasa Krishna Prabhu",
+        "embed_url": "https://soundcloud.com/huron/maha-mantra-evening-tune"
+      },
+      {
+        "title": "Manasa Krishna Prabhu",
+        "embed_url": "https://soundcloud.com/huron/maha-mantra-gaura-arati"
+      },
+      {
+        "title": "Manasa Krishna Prabhu",
+        "embed_url": "https://soundcloud.com/huron/maha-mantra-jaya-radhe"
+      },
+      {
+        "title": "Manasa Krishna Prabhu",
+        "embed_url": "https://soundcloud.com/huron/maha-mantra-nabadwip-tune-3"
+      },
+      {
+        "title": "Manasa Krishna Prabhu",
+        "embed_url": "https://soundcloud.com/huron/maha-mantra-ohe-harinama"
+      },
+      {
+        "title": "Manasa Krishna Prabhu",
+        "embed_url": "https://soundcloud.com/huron/mahamantrasudha"
+      },
+      {
+        "title": "Manasa Krishna Prabhu",
+        "embed_url": "https://soundcloud.com/huron/mahamantrasware"
       }
     ]
   },
@@ -590,9 +866,14 @@
       {
         "title": "Bhakti Lalita Devi",
         "embed_url": "https://soundcloud.com/bhakti-lalita-devi/bhakti-lalita-devi-nama-sankirttan-hari-haraye-namah-krishna"
+      },
+      {
+        "title": "Manasa Krishna Prabhu",
+        "embed_url": "https://soundcloud.com/huron/hari-haraye-namah-krishna"
       }
     ]
   },
+  "hari-hari-bada-shiela-marame-rahila": {},
   "hari-hari-biphole-janama-goyainu": {
     "audio": [
       {
@@ -602,6 +883,10 @@
       {
         "title": "Caracas temple",
         "embed_url": "https://soundcloud.com/bharatimaharaj/shchsm-karakas-xari-xari"
+      },
+      {
+        "title": "Manasa Krishna Prabhu",
+        "embed_url": "https://soundcloud.com/huron/hari-hari-biphole"
       }
     ]
   },
@@ -610,10 +895,25 @@
       {
         "title": "Srila B.S. Govinda Dev-Goswami Maharaj",
         "embed_url": "https://soundcloud.com/bharatimaharaj/govinda-maharaj-hari-he-doyala"
+      },
+      {
+        "title": "Manasa Krishna Prabhu",
+        "embed_url": "https://soundcloud.com/huron/hari-he-doyala-mora"
       }
     ]
   },
-  "hari-he-prapanche-podiya-agati-hoiya": {},
+  "hari-he-prapanche-podiya-agati-hoiya": {
+    "audio": [
+      {
+        "title": "Manasa Krishna Prabhu",
+        "embed_url": "https://soundcloud.com/huron/prapanche-podiya"
+      },
+      {
+        "title": "Kamal Krishna Prabhu",
+        "embed_url": "https://soundcloud.com/jayasri-sound/33-prapance-pariya"
+      }
+    ]
+  },
   "hari-nama-mahamantra-sarva-mantra-sara": {
     "audio": [
       {
@@ -636,6 +936,10 @@
       {
         "title": "Srila B.P. Janardan Maharaj",
         "embed_url": "https://soundcloud.com/bharatimaharaj/janardan-maharaj-he-deva"
+      },
+      {
+        "title": "Manasa Krishna Prabhu",
+        "embed_url": "https://soundcloud.com/huron/he-deva-bhavantam"
       }
     ]
   },
@@ -653,6 +957,10 @@
       {
         "title": "Sudarshan Prabhu",
         "embed_url": "https://soundcloud.com/bharatimaharaj/sudarshan-prabhu-jadi-gaura-na"
+      },
+      {
+        "title": "Manasa Krishna Prabhu",
+        "embed_url": "https://soundcloud.com/huron/jadi-gora-na-hoto"
       }
     ]
   },
@@ -662,6 +970,10 @@
       {
         "title": "Srila B.S. Govinda Dev-Goswami Maharaj",
         "embed_url": "https://soundcloud.com/bharatimaharaj/govinda-maharaj-janamasaphala"
+      },
+      {
+        "title": "Manasa Krishna Prabhu",
+        "embed_url": "https://soundcloud.com/huron/janama-saphala-tara"
       }
     ]
   },
@@ -706,6 +1018,10 @@
       {
         "title": "Srila B.B. Avadhut Maharaj",
         "embed_url": "https://soundcloud.com/bharatimaharaj/avadxut-maxaradzh-shri-nama"
+      },
+      {
+        "title": "Manasa Krishna Prabhu",
+        "embed_url": "https://soundcloud.com/huron/yasomati-nandana"
       }
     ]
   },
@@ -730,6 +1046,10 @@
       {
         "title": "Caracas temple",
         "embed_url": "https://soundcloud.com/bharatimaharaj/shchsm-karakas-dzhaya-guru-1"
+      },
+      {
+        "title": "Manasa Krishna Prabhu",
+        "embed_url": "https://soundcloud.com/huron/jaya-guru-maharaja-jati"
       }
     ]
   },
@@ -742,6 +1062,14 @@
       {
         "title": "Caracas temple",
         "embed_url": "https://soundcloud.com/bharatimaharaj/shchsm-karakas-gaura-arati-i"
+      },
+      {
+        "title": "Manasa Krishna Prabhu",
+        "embed_url": "https://soundcloud.com/huron/jaya-guru-maharaja-koruna"
+      },
+      {
+        "title": "Manasa Krishna Prabhu",
+        "embed_url": "https://soundcloud.com/huron/jaya-guru-maharaja-koruna-1"
       }
     ]
   },
@@ -758,15 +1086,30 @@
       {
         "title": "Sudarshan Prabhu",
         "embed_url": "https://soundcloud.com/bharatimaharaj/sudarshan-prabhu-sri-gaura"
+      },
+      {
+        "title": "Manasa Krishna Prabhu",
+        "embed_url": "https://soundcloud.com/huron/sri-gaura-arati"
       }
     ]
   },
-  "jaya-jaya-girirajer-arati-vishiala": {},
+  "jaya-jaya-girirajer-arati-vishiala": {
+    "audio": [
+      {
+        "title": "Manasa Krishna Prabhu",
+        "embed_url": "https://soundcloud.com/huron/jaya-jaya-girirajer-arati"
+      }
+    ]
+  },
   "jaya-jaya-girirajer-arotiko-shobha": {
     "audio": [
       {
         "title": "Srila B.R. Madhusudan Maharaj",
         "embed_url": "https://soundcloud.com/bharatimaharaj/madhusudan-maharaj-day-programm-kisel"
+      },
+      {
+        "title": "Manasa Krishna Prabhu",
+        "embed_url": "https://soundcloud.com/huron/jaya-jaya-girirajer-arotiko"
       }
     ]
   },
@@ -788,10 +1131,21 @@
       {
         "title": "Caracas temple",
         "embed_url": "https://soundcloud.com/bharatimaharaj/shchsm-karakas-dzhaya-dzhaya"
+      },
+      {
+        "title": "Manasa Krishna Prabhu",
+        "embed_url": "https://soundcloud.com/huron/jaya-jaya-gurudever-arati"
       }
     ]
   },
-  "jaya-jaya-radha-krishna-jugala-milan": {},
+  "jaya-jaya-radha-krishna-jugala-milan": {
+    "audio": [
+      {
+        "title": "Manasa Krishna Prabhu",
+        "embed_url": "https://soundcloud.com/huron/jaya-jaya-radha-krishna"
+      }
+    ]
+  },
   "jaya-radhe-jaya-krishna-jaya-vrindavan": {
     "audio": [
       {
@@ -813,6 +1167,10 @@
       {
         "title": "Srila B.R. Madhusudan Maharaj",
         "embed_url": "https://soundcloud.com/bharatimaharaj/madhusudan-maharaj-jaya-radhe"
+      },
+      {
+        "title": "Manasa Krishna Prabhu",
+        "embed_url": "https://soundcloud.com/huron/jaya-radhe-jaya-krishna-hq"
       }
     ]
   },
@@ -837,10 +1195,21 @@
       {
         "title": "Srila B.B. Avadhut Maharaj",
         "embed_url": "https://soundcloud.com/bharatimaharaj/avadxut-maxaradzh-utrennee-4"
+      },
+      {
+        "title": "Manasa Krishna Prabhu",
+        "embed_url": "https://soundcloud.com/huron/jaya-sachinandana"
       }
     ]
   },
-  "jaya-shrila-maharaja-charanaravinda": {},
+  "jaya-shrila-maharaja-charanaravinda": {
+    "audio": [
+      {
+        "title": "Manasa Krishna Prabhu",
+        "embed_url": "https://soundcloud.com/huron/jaya-srila-maharaja"
+      }
+    ]
+  },
   "jaya-yashoda-nandana-krishna-gopala-govinda": {
     "audio": [
       {
@@ -850,6 +1219,10 @@
       {
         "title": "Caracas temple",
         "embed_url": "https://soundcloud.com/bharatimaharaj/shchsm-karakas-dzhashoda"
+      },
+      {
+        "title": "Manasa Krishna Prabhu",
+        "embed_url": "https://soundcloud.com/huron/jaya-jasoda-nandana-krishna"
       }
     ]
   },
@@ -863,6 +1236,10 @@
       {
         "title": "Caracas temple",
         "embed_url": "https://soundcloud.com/bharatimaharaj/shchsm-karakas-gaura-arati-i"
+      },
+      {
+        "title": "Manasa Krishna Prabhu",
+        "embed_url": "https://soundcloud.com/huron/saraswat-arati"
       }
     ]
   },
@@ -875,6 +1252,10 @@
       {
         "title": "Srila B.S. Govinda Dev-Goswami Maharaj",
         "embed_url": "https://soundcloud.com/bharatimaharaj/govinda-maharaj-acharya"
+      },
+      {
+        "title": "Manasa Krishna Prabhu",
+        "embed_url": "https://soundcloud.com/huron/jayare-jayare-jaya-paramahamsa"
       }
     ]
   },
@@ -900,6 +1281,10 @@
       {
         "title": "Srila B.R. Madhusudan Maharaj",
         "embed_url": "https://soundcloud.com/bharatimaharaj/madhusudan-maharaj-viraha-giti"
+      },
+      {
+        "title": "Manasa Krishna Prabhu",
+        "embed_url": "https://soundcloud.com/huron/je-anilo-prema-dhana"
       }
     ]
   },
@@ -908,6 +1293,10 @@
       {
         "title": "Srila B.B. Avadhut Maharaj",
         "embed_url": "https://soundcloud.com/bharatimaharaj/avadxut-maxaradzh-utrennee"
+      },
+      {
+        "title": "Manasa Krishna Prabhu",
+        "embed_url": "https://soundcloud.com/huron/udilo-aruna-jiv-jago"
       }
     ]
   },
@@ -917,6 +1306,10 @@
       {
         "title": "Srila B.S. Govinda Dev-Goswami Maharaj",
         "embed_url": "https://soundcloud.com/kostya-netrebenko/27-kali-ghora-timire-1"
+      },
+      {
+        "title": "Manasa Krishna Prabhu",
+        "embed_url": "https://soundcloud.com/huron/kali-ghora-timire"
       }
     ]
   },
@@ -929,6 +1322,10 @@
       {
         "title": "Srila B.B. Avadhut Maharaj",
         "embed_url": "https://soundcloud.com/bharatimaharaj/avadxut-maxaradzh-utrennee-6"
+      },
+      {
+        "title": "Manasa Krishna Prabhu",
+        "embed_url": "https://soundcloud.com/huron/kali-kukkura-kadana"
       }
     ]
   },
@@ -938,6 +1335,10 @@
       {
         "title": "Srila B.K. Ashram Maharaj",
         "embed_url": "https://soundcloud.com/scsmathcolombia/12-ke-jabi-ke-jabi"
+      },
+      {
+        "title": "Manasa Krishna Prabhu",
+        "embed_url": "https://soundcloud.com/huron/ke-jabi"
       }
     ]
   },
@@ -950,6 +1351,14 @@
       {
         "title": "Sudarshan Prabhu",
         "embed_url": "https://soundcloud.com/bharatimaharaj/sudarshan-prabhu-goptrtve"
+      },
+      {
+        "title": "Manasa Krishna Prabhu",
+        "embed_url": "https://soundcloud.com/huron/ki-jani-ki-bole"
+      },
+      {
+        "title": "Kamal Krishna Prabhu",
+        "embed_url": "https://soundcloud.com/jayasri-sound/17-ki-jani-ki-bale"
       }
     ]
   },
@@ -958,6 +1367,10 @@
       {
         "title": "Srila B.N. Acharya Maharaj",
         "embed_url": "https://soundcloud.com/kostya-netrebenko/015-kirupepaibaseva-7"
+      },
+      {
+        "title": "Manasa Krishna Prabhu",
+        "embed_url": "https://soundcloud.com/huron/ki-rupe-paibo-seva"
       }
     ]
   },
@@ -966,6 +1379,14 @@
       {
         "title": "Sudarshan Prabhu",
         "embed_url": "https://soundcloud.com/bharatimaharaj/sudarshan-prabhu-siddhi-lalasa"
+      },
+      {
+        "title": "Manasa Krishna Prabhu",
+        "embed_url": "https://soundcloud.com/huron/kabe-gora-vane"
+      },
+      {
+        "title": "Kamal Krishna Prabhu",
+        "embed_url": "https://soundcloud.com/jayasri-sound/46-kabe-gaura-vane"
       }
     ]
   },
@@ -974,6 +1395,14 @@
       {
         "title": "Bhakti Lalita Devi",
         "embed_url": "https://soundcloud.com/bhakti-lalita-devi/bhakti-lalita-devi-kabe-habe-bolo-acapella-1"
+      },
+      {
+        "title": "Manasa Krishna Prabhu",
+        "embed_url": "https://soundcloud.com/huron/kabe-habe-bolo"
+      },
+      {
+        "title": "Kamal Krishna Prabhu",
+        "embed_url": "https://soundcloud.com/jayasri-sound/49-kabe-habe-bolo"
       }
     ]
   },
@@ -986,10 +1415,21 @@
       {
         "title": "Nabadwip temple",
         "embed_url": "https://soundcloud.com/bharatimaharaj/navadwip-scsm-kobe-sri"
+      },
+      {
+        "title": "Manasa Krishna Prabhu",
+        "embed_url": "https://soundcloud.com/huron/kobe-sri-chaitanya"
       }
     ]
   },
-  "kripa-kara-vaishnava-thakura": {},
+  "kripa-kara-vaishnava-thakura": {
+    "audio": [
+      {
+        "title": "Manasa Krishna Prabhu",
+        "embed_url": "https://soundcloud.com/huron/kripa-koro-vaisnava"
+      }
+    ]
+  },
   "krishna-hoite-chatur-mukha": {
     "audio": [
       {
@@ -999,6 +1439,10 @@
       {
         "title": "Srila B.B. Avadhut Maharaj",
         "embed_url": "https://soundcloud.com/bharatimaharaj/avadxut-maxaradzh-shri-guru"
+      },
+      {
+        "title": "Manasa Krishna Prabhu",
+        "embed_url": "https://soundcloud.com/huron/krishna-hoite-chaturmukha"
       }
     ]
   },
@@ -1011,9 +1455,15 @@
       {
         "title": "Srila B.R. Madhusudan Maharaj",
         "embed_url": "https://soundcloud.com/bharatimaharaj/madhusudan-maharaj-sri-sri-sad"
+      },
+      {
+        "title": "Manasa Krishna Prabhu",
+        "embed_url": "https://soundcloud.com/huron/sat-goswami-astaka"
       }
     ]
   },
+  "ma-muncha-muncha-mam-krishna": {},
+  "madhava-bahuta-minati-kari-toya": {},
   "maha-bhaya-shiankula-e-bhava-tarangini": {},
   "mahaprasade-govinde-nama-brahmani": {},
   "manasa-deho-geho-jo-kichu-mora": {
@@ -1021,29 +1471,63 @@
       {
         "title": "Srila B.S. Govinda Dev-Goswami Maharaj",
         "embed_url": "https://soundcloud.com/bharatimaharaj/govinda-maharaj-manasa-deho"
+      },
+      {
+        "title": "Manasa Krishna Prabhu",
+        "embed_url": "https://soundcloud.com/huron/manasa-deho-geho"
+      },
+      {
+        "title": "Kamal Krishna Prabhu",
+        "embed_url": "https://soundcloud.com/jayasri-sound/11-manasa-deha-geha"
       }
     ]
   },
   "mayura-mukuta-pitambara-dhari": {
     "audio": [
       {
-        "title": "Sadhu Priya Prabhu",
+        "title": "Manasa Krishna Prabhu",
         "embed_url": "https://soundcloud.com/huron/mayura-mukuta"
       }
     ]
   },
   "mishra-suta-vishvambhara-navadvipa-vasa": {},
-  "nadiya-godrume-nityananda-mahajana": {},
-  "nadiya-nagare-nitai-neche-neche-gay-re": {},
-  "nagara-bhramiya-amara-gaura-elo-ghore": {},
+  "nadiya-godrume-nityananda-mahajana": {
+    "audio": [
+      {
+        "title": "Manasa Krishna Prabhu",
+        "embed_url": "https://soundcloud.com/huron/nadiya-godrume"
+      }
+    ]
+  },
+  "nadiya-nagare-nitai-neche-neche-gay-re": {
+    "audio": [
+      {
+        "title": "Manasa Krishna Prabhu",
+        "embed_url": "https://soundcloud.com/huron/nadiya-nagare-nitai"
+      }
+    ]
+  },
+  "nagara-bhramiya-amara-gaura-elo-ghore": {
+    "audio": [
+      {
+        "title": "Manasa Krishna Prabhu",
+        "embed_url": "https://soundcloud.com/huron/nagara-bhramiya-amara"
+      }
+    ]
+  },
   "nagare-nagare-gora-gay": {
     "audio": [
       {
         "title": "Srila B.S. Goswami Maharaj",
         "embed_url": "https://soundcloud.com/bharatimaharaj/goswami-maharaj-jasomati"
+      },
+      {
+        "title": "Manasa Krishna Prabhu",
+        "embed_url": "https://soundcloud.com/huron/nagare-nagare-gora-gay"
       }
     ]
   },
+  "namadira-smriti-ara-kirtana-niyame": {},
   "namah-om-vishnupadaya-krishna": {
     "image": {
       "href": "images/en/12.jpg",
@@ -1070,6 +1554,10 @@
       {
         "title": "Bhakti Lalita Devi",
         "embed_url": "https://soundcloud.com/bhakti-lalita-devi/bhakti-lalita-damodarastakam-happy-motif"
+      },
+      {
+        "title": "Manasa Krishna Prabhu",
+        "embed_url": "https://soundcloud.com/huron/sri-damodarastakam"
       }
     ]
   },
@@ -1082,6 +1570,10 @@
       {
         "title": "Bhakti Lalita Devi",
         "embed_url": "https://soundcloud.com/bhakti-lalita-devi/bhakti-lalita-devi-sri-nrsimha-pranam-namas-te-narisimhaya"
+      },
+      {
+        "title": "Manasa Krishna Prabhu",
+        "embed_url": "https://soundcloud.com/huron/namas-te-narasimhaya"
       }
     ]
   },
@@ -1107,6 +1599,10 @@
       {
         "title": "Srila B.N. Acharya Maharaj",
         "embed_url": "https://soundcloud.com/kostya-netrebenko/025-namonamahtulasimaharani-2"
+      },
+      {
+        "title": "Manasa Krishna Prabhu",
+        "embed_url": "https://soundcloud.com/huron/namo-namah-tulasi-maharani"
       }
     ]
   },
@@ -1115,6 +1611,10 @@
       {
         "title": "Bhakti Lalita Devi",
         "embed_url": "https://soundcloud.com/bhakti-lalita-devi/bhakti-lalita-devi-namastakam-song-8-narada-muni-bajaya-vina"
+      },
+      {
+        "title": "Manasa Krishna Prabhu",
+        "embed_url": "https://soundcloud.com/huron/narada-muni"
       }
     ]
   },
@@ -1136,6 +1636,7 @@
       }
     ]
   },
+  "nira-dharma-gata-phena-pankadi-samyukta": {},
   "nitai-gunamani-amara-nitai-gunamani": {
     "audio": [
       {
@@ -1149,6 +1650,10 @@
       {
         "title": "Sudarshan Prabhu",
         "embed_url": "https://soundcloud.com/bharatimaharaj/sudarshan-prabhu-nitai"
+      },
+      {
+        "title": "Manasa Krishna Prabhu",
+        "embed_url": "https://soundcloud.com/huron/nitai-gunamani"
       }
     ]
   },
@@ -1165,6 +1670,10 @@
       {
         "title": "Srila B.N. Acharya Maharaj",
         "embed_url": "https://soundcloud.com/bharatimaharaj/acharya-maharaj-nitay-pada"
+      },
+      {
+        "title": "Manasa Krishna Prabhu",
+        "embed_url": "https://soundcloud.com/huron/nitai-pada-kamala"
       }
     ]
   },
@@ -1176,7 +1685,14 @@
       }
     ]
   },
-  "ohe-harinam-tava-mahima-apara": {},
+  "ohe-harinam-tava-mahima-apara": {
+    "audio": [
+      {
+        "title": "Manasa Krishna Prabhu",
+        "embed_url": "https://soundcloud.com/huron/ohe-harinam-tava"
+      }
+    ]
+  },
   "ore-mana-bhalo-nahi-lage-e-somsara": {},
   "parama-karuna-pahu-dui-jana": {
     "audio": [
@@ -1191,6 +1707,10 @@
       {
         "title": "Nabadwip temple",
         "embed_url": "https://soundcloud.com/bharatimaharaj/navadwip-scsm-parama-koruna"
+      },
+      {
+        "title": "Manasa Krishna Prabhu",
+        "embed_url": "https://soundcloud.com/huron/parama-koruna-pahu-dui-jana"
       }
     ]
   },
@@ -1207,6 +1727,14 @@
       {
         "title": "Srila B.N. Acharya Maharaj",
         "embed_url": "https://soundcloud.com/kostya-netrebenko/100-srisrisiksastakam1-6"
+      },
+      {
+        "title": "Manasa Krishna Prabhu",
+        "embed_url": "https://soundcloud.com/huron/pita-barana-kali-pavana-gora"
+      },
+      {
+        "title": "Sudarshan Prabhu",
+        "embed_url": "https://soundcloud.com/jayasri-sound/song-1-pita-barana-kali-pavana"
       }
     ]
   },
@@ -1217,7 +1745,7 @@
         "embed_url": "https://soundcloud.com/scsmission/prabhu-kohe-sung-by-nitai-dasa"
       },
       {
-        "title": "Sadhu Priya Prabhu",
+        "title": "Manasa Krishna Prabhu",
         "embed_url": "https://soundcloud.com/huron/prabhu-kohe-kohilan"
       }
     ]
@@ -1231,6 +1759,14 @@
       {
         "title": "Bhakti Lalita Devi",
         "embed_url": "https://soundcloud.com/bhakti-lalita-devi/prabhu-tava-pada-juge"
+      },
+      {
+        "title": "Manasa Krishna Prabhu",
+        "embed_url": "https://soundcloud.com/huron/prabhu-pada-tava-juge"
+      },
+      {
+        "title": "Sudarshan Prabhu",
+        "embed_url": "https://soundcloud.com/jayasri-sound/song-4-prabhu-tava-pada-juge"
       }
     ]
   },
@@ -1239,6 +1775,10 @@
       {
         "title": "Srila B.S. Govinda Dev-Goswami Maharaj",
         "embed_url": "https://soundcloud.com/krsnachaitanya-das/39-sri-dasavatar-stotram-2"
+      },
+      {
+        "title": "Manasa Krishna Prabhu",
+        "embed_url": "https://soundcloud.com/huron/pralaya-payodhi-jale"
       }
     ]
   },
@@ -1247,6 +1787,10 @@
       {
         "title": "Srila B.R. Madhusudan Maharaj",
         "embed_url": "https://soundcloud.com/bharatimaharaj/madhusudan-maharaj-prema-dhama"
+      },
+      {
+        "title": "Manasa Krishna Prabhu",
+        "embed_url": "https://soundcloud.com/huron/prema-dhama"
       }
     ]
   },
@@ -1255,6 +1799,10 @@
       {
         "title": "Srila B.R. Madhusudan Maharaj",
         "embed_url": "https://soundcloud.com/bharatimaharaj/madhusudan-maharaj-prema-dhama"
+      },
+      {
+        "title": "Manasa Krishna Prabhu",
+        "embed_url": "https://soundcloud.com/huron/prema-dhama"
       }
     ]
   },
@@ -1273,6 +1821,10 @@
       {
         "title": "Caracas temple",
         "embed_url": "https://soundcloud.com/bharatimaharaj/sridhar-maharaj-and-573711371"
+      },
+      {
+        "title": "Manasa Krishna Prabhu",
+        "embed_url": "https://soundcloud.com/huron/radha-bhajane-jodi"
       }
     ]
   },
@@ -1282,6 +1834,10 @@
       {
         "title": "Srila B.S. Govinda Dev-Goswami Maharaj",
         "embed_url": "https://soundcloud.com/krsnachaitanya-das/34-radha-krsna-prana-mora-yugala-kisora-6"
+      },
+      {
+        "title": "Manasa Krishna Prabhu",
+        "embed_url": "https://soundcloud.com/huron/radha-krishna-prana-mora"
       }
     ]
   },
@@ -1322,6 +1878,14 @@
       {
         "title": "Srila B.B. Avadhut Maharaj",
         "embed_url": "https://soundcloud.com/bharatimaharaj/avadxut-maxaradzh-dzhaya-radxa"
+      },
+      {
+        "title": "Manasa Krishna Prabhu",
+        "embed_url": "https://soundcloud.com/huron/jaya-radha-madhava"
+      },
+      {
+        "title": "Manasa Krishna Prabhu",
+        "embed_url": "https://soundcloud.com/huron/jaya-radha-madhava-1"
       }
     ]
   },
@@ -1338,6 +1902,14 @@
       {
         "title": "Srila B.R. Madhusudan Maharaj",
         "embed_url": "https://soundcloud.com/bharatimaharaj/madhusudan-maharaj-day-programm-kisel"
+      },
+      {
+        "title": "Manasa Krishna Prabhu",
+        "embed_url": "https://soundcloud.com/huron/radha-kundatata"
+      },
+      {
+        "title": "Kamal Krishna Prabhu",
+        "embed_url": "https://soundcloud.com/jayasri-sound/32-radhakundatata-kunjakutira"
       }
     ]
   },
@@ -1367,6 +1939,10 @@
       {
         "title": "Srila B.P. Janardan Maharaj",
         "embed_url": "https://soundcloud.com/bharatimaharaj/janardan-maharaj-radhe-jaya"
+      },
+      {
+        "title": "Manasa Krishna Prabhu",
+        "embed_url": "https://soundcloud.com/huron/radhe-jaya-jaya"
       }
     ]
   },
@@ -1379,15 +1955,24 @@
       {
         "title": "Srila B.S. Govinda Dev-Goswami Maharaj",
         "embed_url": "https://soundcloud.com/krsnachaitanya-das/33-radhika-charana-padma-7"
+      },
+      {
+        "title": "Manasa Krishna Prabhu",
+        "embed_url": "https://soundcloud.com/huron/radhika-charana-padma"
       }
     ]
   },
+  "sakala-preyasi-shreshtha-vrishabhanu-suta": {},
   "sakala-vaishnava-pade-mora-namaskara": {},
   "sakhi-go-kemote-dhoribo-paran": {
     "audio": [
       {
         "title": "Bhakti Lalita Devi",
         "embed_url": "https://soundcloud.com/bhakti-lalita-devi/sakhi-go-kemote"
+      },
+      {
+        "title": "Manasa Krishna Prabhu",
+        "embed_url": "https://soundcloud.com/huron/sakhi-go-kemote"
       }
     ]
   },
@@ -1404,6 +1989,10 @@
       {
         "title": "Bhakti Lalita Devi",
         "embed_url": "https://soundcloud.com/bhakti-lalita-devi/bhakti-lalita-devi-sri-sri-gurvvashtakam-samsara-davanala-lidha-loka"
+      },
+      {
+        "title": "Manasa Krishna Prabhu",
+        "embed_url": "https://soundcloud.com/huron/samsara-davanala"
       }
     ]
   },
@@ -1418,6 +2007,14 @@
       {
         "title": "Sudarshan Prabhu",
         "embed_url": "https://soundcloud.com/bharatimaharaj/sudarshan-prabhu-sarvasva"
+      },
+      {
+        "title": "Manasa Krishna Prabhu",
+        "embed_url": "https://soundcloud.com/huron/sarvasva-tomara"
+      },
+      {
+        "title": "Kamal Krishna Prabhu",
+        "embed_url": "https://soundcloud.com/jayasri-sound/19-sarvvasva-tomara"
       }
     ]
   },
@@ -1426,6 +2023,14 @@
       {
         "title": "Srila B.N. Acharya Maharaj",
         "embed_url": "https://soundcloud.com/kostya-netrebenko/083-suddhabhakatacharanarenu-11"
+      },
+      {
+        "title": "Manasa Krishna Prabhu",
+        "embed_url": "https://soundcloud.com/huron/suddha-bhakata-charana-renu"
+      },
+      {
+        "title": "Kamal Krishna Prabhu",
+        "embed_url": "https://soundcloud.com/jayasri-sound/31-suddha-bhakata"
       }
     ]
   },
@@ -1434,9 +2039,15 @@
       {
         "title": "Srila B.S. Govinda Dev-Goswami Maharaj",
         "embed_url": "https://soundcloud.com/krsnachaitanya-das/38-suno-he-rasika-jana-3"
+      },
+      {
+        "title": "Manasa Krishna Prabhu",
+        "embed_url": "https://soundcloud.com/huron/guna-kirttan"
       }
     ]
   },
+  "shri-chaitanya-kripa-haite-raghunatha-dasa-chitte": {},
+  "shri-gauda-dhamashrita-shiuddha-bhaktam": {},
   "shri-guru-charana-padma-kevala-bhakati": {
     "audio": [
       {
@@ -1450,6 +2061,10 @@
       {
         "title": "Nabadwip temple",
         "embed_url": "https://soundcloud.com/bharatimaharaj/navadwip-scsm-sri-guru-charana"
+      },
+      {
+        "title": "Manasa Krishna Prabhu",
+        "embed_url": "https://soundcloud.com/huron/sri-guru-charana-padma"
       }
     ]
   },
@@ -1458,6 +2073,10 @@
       {
         "title": "Srila B.N. Acharya Maharaj",
         "embed_url": "https://soundcloud.com/kostya-netrebenko/082-sriharivasare-9"
+      },
+      {
+        "title": "Manasa Krishna Prabhu",
+        "embed_url": "https://soundcloud.com/huron/sri-hari-vasara"
       }
     ]
   },
@@ -1490,10 +2109,25 @@
       {
         "title": "Bhakti Lalita Devi",
         "embed_url": "https://soundcloud.com/bhakti-lalita-devi/bhakti-lalita-devi-savarana-sri-gaura-pada-padme-sri-krishna-chaitanya-prabhu-doya-koro-more"
+      },
+      {
+        "title": "Manasa Krishna Prabhu",
+        "embed_url": "https://soundcloud.com/huron/sri-krishna-chaitanya-prabhu"
       }
     ]
   },
-  "shri-krishna-chaitanya-prabhu-jive-daya-kori": {},
+  "shri-krishna-chaitanya-prabhu-jive-daya-kori": {
+    "audio": [
+      {
+        "title": "Manasa Krishna Prabhu",
+        "embed_url": "https://soundcloud.com/huron/sri-krishna-chaitanya-prabhu-1"
+      },
+      {
+        "title": "Kamal Krishna Prabhu",
+        "embed_url": "https://soundcloud.com/jayasri-sound/01-sri-krishna-chaitanya"
+      }
+    ]
+  },
   "shri-krishna-chaitanya-prabhu-nityananda": {},
   "shri-krishna-kirtane-jodi-manasa-tohara": {
     "audio": [
@@ -1504,6 +2138,14 @@
       {
         "title": "Bhakti Lalita Devi",
         "embed_url": "https://soundcloud.com/bhakti-lalita-devi/sri-krishna-kirtane-jodi-manasa-tohara"
+      },
+      {
+        "title": "Manasa Krishna Prabhu",
+        "embed_url": "https://soundcloud.com/huron/sri-krishna-kirttane-jodi"
+      },
+      {
+        "title": "Sudarshan Prabhu",
+        "embed_url": "https://soundcloud.com/jayasri-sound/song-3-sri-krishna-kirttane"
       }
     ]
   },
@@ -1512,6 +2154,10 @@
       {
         "title": "Srila B.S. Govinda Dev-Goswami Maharaj",
         "embed_url": "https://soundcloud.com/bharatimaharaj/govinda-maharaj-sri-rupa"
+      },
+      {
+        "title": "Manasa Krishna Prabhu",
+        "embed_url": "https://soundcloud.com/huron/sri-rupa-manjari-pada"
       }
     ]
   },
@@ -1520,6 +2166,10 @@
       {
         "title": "Srila B.R. Madhusudan Maharaj",
         "embed_url": "https://soundcloud.com/bharatimaharaj/madhusudan-maharaj-prema-dhama"
+      },
+      {
+        "title": "Manasa Krishna Prabhu",
+        "embed_url": "https://soundcloud.com/huron/prema-dhama"
       }
     ]
   },
@@ -1573,6 +2223,10 @@
       {
         "title": "Srila B.B. Avadhut Maharaj",
         "embed_url": "https://soundcloud.com/bharatimaharaj/avadxut-maxaradzh-prabxupada"
+      },
+      {
+        "title": "Manasa Krishna Prabhu",
+        "embed_url": "https://soundcloud.com/huron/pranamami-sadha-prabhupada"
       }
     ]
   },
@@ -1581,10 +2235,21 @@
       {
         "title": "Srila B.R. Madhusudan Maharaj",
         "embed_url": "https://soundcloud.com/bharatimaharaj/madhusudan-maharaj-prema-dhama"
+      },
+      {
+        "title": "Manasa Krishna Prabhu",
+        "embed_url": "https://soundcloud.com/huron/prema-dhama"
       }
     ]
   },
-  "tatala-saikate-vari-bindu-sama": {},
+  "tatala-saikate-vari-bindu-sama": {
+    "audio": [
+      {
+        "title": "Manasa Krishna Prabhu",
+        "embed_url": "https://soundcloud.com/huron/tatala-saikate"
+      }
+    ]
+  },
   "thakura-vaishnava-gana-kori-ei-nivedana": {
     "audio": [
       {
@@ -1598,6 +2263,10 @@
       {
         "title": "Bhakti Lalita Devi",
         "embed_url": "https://soundcloud.com/bhakti-lalita-devi/bhakti-lalita-devi-thakura-vaishnava-gana"
+      },
+      {
+        "title": "Manasa Krishna Prabhu",
+        "embed_url": "https://soundcloud.com/huron/thakura-vaisnava-gana"
       }
     ]
   },
@@ -1606,6 +2275,10 @@
       {
         "title": "Srila B.N. Acharya Maharaj",
         "embed_url": "https://soundcloud.com/kostya-netrebenko/013-thakuravaisnavapadaavanirasusampada-6"
+      },
+      {
+        "title": "Manasa Krishna Prabhu",
+        "embed_url": "https://soundcloud.com/huron/thakura-vaisnava-pada"
       }
     ]
   },
@@ -1618,10 +2291,29 @@
       {
         "title": "Srila B.N. Acharya Maharaj",
         "embed_url": "https://soundcloud.com/kostya-netrebenko/101-srisrisiksastakam2-1"
+      },
+      {
+        "title": "Manasa Krishna Prabhu",
+        "embed_url": "https://soundcloud.com/huron/tuhu-doya-sagara"
+      },
+      {
+        "title": "Sudarshan Prabhu",
+        "embed_url": "https://soundcloud.com/jayasri-sound/song-2-tuhu-doya-sagara-mp3"
       }
     ]
   },
-  "tumi-sarveshvareshvara-vrajendra-kumara": {},
+  "tumi-sarveshvareshvara-vrajendra-kumara": {
+    "audio": [
+      {
+        "title": "Manasa Krishna Prabhu",
+        "embed_url": "https://soundcloud.com/huron/tumi-sarvvesvaresvara"
+      },
+      {
+        "title": "Kamal Krishna Prabhu",
+        "embed_url": "https://soundcloud.com/jayasri-sound/20-tumi-sarvesvaresvara"
+      }
+    ]
+  },
   "udilo-aruna-puraba-bhage": {
     "audio": [
       {
@@ -1631,9 +2323,14 @@
       {
         "title": "Srila B.B. Avadhut Maharaj",
         "embed_url": "https://soundcloud.com/bharatimaharaj/avadxut-maxaradzh-utrennee-1"
+      },
+      {
+        "title": "Manasa Krishna Prabhu",
+        "embed_url": "https://soundcloud.com/huron/udilo-aruna-jiv-jago"
       }
     ]
   },
+  "vaikuntha-apeksha-shreshtha-mathura-mandala": {},
   "vaishnava-thakura-dayara-sagara": {
     "audio": [
       {
@@ -1651,6 +2348,14 @@
       {
         "title": "Sudarshan Prabhu",
         "embed_url": "https://soundcloud.com/bharatimaharaj/sudarshan-prabhu-ohe-vaishnava"
+      },
+      {
+        "title": "Manasa Krishna Prabhu",
+        "embed_url": "https://soundcloud.com/huron/ohe-vaisnava-thakura"
+      },
+      {
+        "title": "Kamal Krishna Prabhu",
+        "embed_url": "https://soundcloud.com/jayasri-sound/39-ohe-vaisnava-thakura"
       }
     ]
   },
@@ -1702,19 +2407,40 @@
       {
         "title": "Srila B.B. Avadhut Maharaj",
         "embed_url": "https://soundcloud.com/bharatimaharaj/avadxut-maxaradzh-vibxavari"
+      },
+      {
+        "title": "Manasa Krishna Prabhu",
+        "embed_url": "https://soundcloud.com/huron/vibhavari-sesa-aloka-pravesa"
       }
     ]
   },
-  "vimala-hemajin-tanu-anupama-re": {},
+  "vimala-hemajin-tanu-anupama-re": {
+    "audio": [
+      {
+        "title": "Srila B.S. Govinda Dev-Goswami Maharaj",
+        "embed_url": "https://soundcloud.com/kostya-netrebenko/26-bimala-hema-jini-2"
+      },
+      {
+        "title": "Manasa Krishna Prabhu",
+        "embed_url": "https://soundcloud.com/huron/bimala-hemajini"
+      }
+    ]
+  },
   "virajar-pare-shiuddha-paravyoma-dham": {
     "audio": [
       {
         "title": "Srila B.R. Sridhar Dev-Goswami Maharaj",
         "embed_url": "https://soundcloud.com/bharatimaharaj/sridhar-maharaj-and-govinda-1"
+      },
+      {
+        "title": "Manasa Krishna Prabhu",
+        "embed_url": "https://soundcloud.com/huron/viraja-pare-suddha"
       }
     ]
   },
   "vrindayai-tulasi-devyai": {},
+  "yabe-rupa-sanatana-vraje-gela-dui-jana": {},
+  "yadi-gaura-na-hata-tabe-ki-ha-ita": {},
   "yadi-te-hari-pada-saroja-sudha": {
     "audio": [
       {
@@ -1728,6 +2454,10 @@
       {
         "title": "Srila B.R. Madhusudan Maharaj",
         "embed_url": "https://soundcloud.com/bharatimaharaj/madhusudan-maharaj-prema-dhama"
+      },
+      {
+        "title": "Manasa Krishna Prabhu",
+        "embed_url": "https://soundcloud.com/huron/prema-dhama"
       }
     ]
   },

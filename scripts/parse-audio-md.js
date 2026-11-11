@@ -9,7 +9,7 @@ Sort output by each object parent key.
 
 Markdown format (per render-md-audio.js spec):
 - **{song.title}**
-  - https://kirtan.site/{slug}/{id}.html
+  - https://kirtan.site/{slug}/{id}/
   - {first_line}
     - **{audio.title}**
       - {embed_url}
@@ -51,7 +51,7 @@ function parseAudioMarkdown(markdownContent) {
             const value = level2Match[1];
 
             // Kirtan.site URL → extract song ID
-            const kirtanMatch = value.match(/^https?:\/\/kirtan\.site\/[^/]+\/([^/?#]+)\.html/);
+            const kirtanMatch = value.match(/^https?:\/\/kirtan\.site\/[^/]+\/([^/?#]+)\//);
             if (kirtanMatch) {
                 if (pendingAudioTitle && !pendingAudioTitleHasUrl) {
                     errors.push(`Line ${lineNum}: audio title "${pendingAudioTitle}" has no embed URL`);

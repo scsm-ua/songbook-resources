@@ -142,5 +142,23 @@
       "ru": "Шрила Б.П. Джанардан Махарадж",
       "ua": "Шріла Б.П. Джанардан Махарадж"
     }
+  },
+  {
+    "id": "Manasa Krishna Prabhu",
+    "slug": "manasa-krishna-prabhu",
+    "i18n": {
+      "en": "Manasa Krishna Prabhu",
+      "ru": "Манаса Кришна Прабху",
+      "ua": "Манаса Крішна Прабгу"
+    }
+  },
+  {
+    "id": "Kamal Krishna Prabhu",
+    "slug": "kamal-krishna-prabhu",
+    "i18n": {
+      "en": "Kamal Krishna Prabhu",
+      "ru": "Камал Кришна Прабху",
+      "ua": "Камал Крішна Прабгу"
+    }
   }
 ]
